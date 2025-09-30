@@ -1,6 +1,8 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 using System.Collections;
 using System.Collections.Generic;
+using System;
 
 [RequireComponent(typeof(CharacterController))]
 public class FPController : MonoBehaviour
@@ -30,12 +32,38 @@ public class FPController : MonoBehaviour
     }
 
     [Header("Input")]
+    [SerializeField] private InputActionReference moveAction;
     public Vector2 moveInput;
+    [SerializeField] private InputActionReference lookAction;
     public Vector2 lookInput;
 
     [Header("Components")]
     [SerializeField] Camera playerCamera;
     [SerializeField] CharacterController characterController;
+
+    private void Start()
+    {
+        Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.Locked;
+
+        moveAction.action.started += HandleMoveInput;
+        moveAction.action.performed += HandleMoveInput;
+        moveAction.action.canceled += HandleMoveInput;
+
+        lookAction.action.started += HandleLookInput;
+        lookAction.action.performed += HandleLookInput;
+        lookAction.action.canceled += HandleLookInput;
+    }
+
+    private void HandleMoveInput(InputAction.CallbackContext context)
+    {
+        moveInput = context.ReadValue<Vector2>();
+    }
+
+    private void HandleLookInput(InputAction.CallbackContext context)
+    {
+        lookInput = context.ReadValue<Vector2>();
+    }
 
     private void OnValidate()
     {

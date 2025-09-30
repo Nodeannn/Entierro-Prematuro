@@ -17,6 +17,8 @@ public class ObjectInteraction : MonoBehaviour
     [SerializeField] private InputActionReference rayInput;
     public bool rayAction;
 
+    [SerializeField] public GameObject intText;
+
     void Start()
     {
         rayInput.action.performed += HandleRayInput;
@@ -24,18 +26,36 @@ public class ObjectInteraction : MonoBehaviour
 
     void HandleRayInput(InputAction.CallbackContext context)
     {
-        bool rayUse = context.ReadValue<bool>();
+        rayAction = true;
+    }
 
-        if(rayUse == true)
-        {
-            Ray rayCast = new Ray(InteractorSource.position, InteractorSource.forward);
+    private void Update()
+    {
+        Ray rayCast = new Ray(InteractorSource.position, InteractorSource.forward);
+
         if (Physics.Raycast(rayCast, out RaycastHit hitInfo, InteractRange))
         {
             if (hitInfo.collider.gameObject.TryGetComponent(out IInteractable interactObj))
             {
-                interactObj.Interact();
+                if (intText != null)
+                    intText.SetActive(true);
+
+                if (rayAction)
+                {
+                    interactObj.Interact();
+                    rayAction = false;
+                }
+            }
+            else
+            {
+                if (intText != null)
+                    intText.SetActive(false);
             }
         }
+        else
+        {
+            if (intText != null)
+                intText.SetActive(false);
         }
     }
 }
