@@ -8,6 +8,7 @@ public class FPPlayer : MonoBehaviour
 {
     [Header("Components")]
     [SerializeField] FPController controller;
+    [SerializeField] ObjectInteraction interaction;
     
     void OnMove(InputValue value)
     {
