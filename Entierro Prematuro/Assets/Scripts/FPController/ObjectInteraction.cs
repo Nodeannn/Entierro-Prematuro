@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using System.Collections;
 
 interface IInteractable
 {
@@ -19,6 +20,9 @@ public class ObjectInteraction : MonoBehaviour
 
     [SerializeField] public GameObject intText;
 
+    [Header("Interaction Settings")]
+    public float actionDuration = 0.1f;
+
     void Start()
     {
         rayInput.action.performed += HandleRayInput;
@@ -26,7 +30,14 @@ public class ObjectInteraction : MonoBehaviour
 
     void HandleRayInput(InputAction.CallbackContext context)
     {
+        StartCoroutine(ActionTimer());
+    }
+
+    IEnumerator ActionTimer()
+    {
         rayAction = true;
+        yield return new WaitForSeconds(actionDuration);
+        rayAction = false;
     }
 
     private void Update()
@@ -37,8 +48,15 @@ public class ObjectInteraction : MonoBehaviour
         {
             if (hitInfo.collider.gameObject.TryGetComponent(out IInteractable interactObj))
             {
-                if (intText != null)
+                if (intText != null && UIManager.Instance.allowInteractText)
+                {
                     intText.SetActive(true);
+                }
+
+                else if (intText != null)
+                {
+                    intText.SetActive(false);
+                }
 
                 if (rayAction)
                 {
@@ -46,12 +64,14 @@ public class ObjectInteraction : MonoBehaviour
                     rayAction = false;
                 }
             }
+
             else
             {
                 if (intText != null)
                     intText.SetActive(false);
             }
         }
+
         else
         {
             if (intText != null)

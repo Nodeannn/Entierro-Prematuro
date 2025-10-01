@@ -792,6 +792,7 @@ MonoBehaviour:
   rayInput: {fileID: 1781555164194001046, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   rayAction: 0
   intText: {fileID: 562904594}
+  actionDuration: 0.1
 --- !u!1 &1710403894
 GameObject:
   m_ObjectHideFlags: 0
@@ -992,9 +993,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1837854313}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b5ea23ad5856124cabbb3642eef4a10, type: 3}
+  m_Script: {fileID: 11500000, guid: d025db9b06d8ae8479985ab177f5eb01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fanText: {fileID: 0}
+  showTextDuration: 2
 --- !u!1 &1924567952
 GameObject:
   m_ObjectHideFlags: 0
