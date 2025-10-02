@@ -1,21 +1,12 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
-using System.Collections;
 
-public class IconCloseClick : MonoBehaviour
+public class IconCloseClick : MonoBehaviour, IPointerClickHandler
 {
     [SerializeField] private GameObject programa;
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        StartCoroutine(closeProgram());
-        Debug.Log("Hiciste Click");
+        programa.SetActive(false);
     }
-
-    private IEnumerator closeProgram()
-    {
-        yield return new WaitForSeconds(0.01f);
-        
-    }
-
 }
