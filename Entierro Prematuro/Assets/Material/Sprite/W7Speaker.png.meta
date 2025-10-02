@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bc0d10407077f954aa95762b6c064257
+guid: 10076e61b5ad26e438235e5320172f99
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Hoja_0
+      name: W7Speaker_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 594
-        height: 844
+        width: 600
+        height: 600
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3246526d693197742ab2039ecb427bb2
-      internalID: -103676273
+      spriteID: 1e548d8616ea52d4eabf4c7804e11309
+      internalID: -1388413622
       vertices: []
       indices: 
       edges: []
@@ -122,7 +122,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 3d53a489ae5d38a4cbc334fc63c89103
+    spriteID: ab9f579a9e4c68c4696f07f26f978a5c
     internalID: 0
     vertices: []
     indices: 
@@ -132,7 +132,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Hoja_0: -103676273
+      W7Speaker_0: -1388413622
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bc0d10407077f954aa95762b6c064257
+guid: 0d201e52f2fbf2449bac2f58e8ec67d2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Hoja_0
+      name: W7App_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 594
-        height: 844
+        width: 696
+        height: 534
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3246526d693197742ab2039ecb427bb2
-      internalID: -103676273
+      spriteID: 0c584bd0a6ba24f43834350933b2ebb7
+      internalID: -362023650
       vertices: []
       indices: 
       edges: []
@@ -122,7 +122,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 3d53a489ae5d38a4cbc334fc63c89103
+    spriteID: 13850f4ac34c5f34a8d6e662163e0c83
     internalID: 0
     vertices: []
     indices: 
@@ -132,7 +132,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Hoja_0: -103676273
+      W7App_0: -362023650
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
