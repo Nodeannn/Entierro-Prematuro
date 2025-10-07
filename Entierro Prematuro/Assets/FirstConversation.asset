@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8184acd36e713634eaad195574b0882b, type: 3}
+  m_Name: FirstConversation
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: Pensamiento
+    text: "Mi primer paciente desde\u2026 desde aquel d\xEDa."
+  - speaker: Pensamiento
+    text: "Todav\xEDa recuerdo su rostro cuando me dijo que no pod\xEDa m\xE1s"
+  - speaker: Pensamiento
+    text: "Y mi voz, insegura, rota. No lo salv\xE9. Lo perd\xED."
+  - speaker: Pensamiento
+    text: "Y ahora debo volver a intentarlo. \xBFSer\xE1 que me estoy enga\xF1ando
+      al creer que a\xFAn soy capaz?"
