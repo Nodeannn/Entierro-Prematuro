@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a9f46fe14cf7b114a8606b75d23a8813
+guid: ed186a203c8910d42b0224f44f405159
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,23 +97,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MinimizeButton_0
+      name: OpenIconRB_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 6
-        width: 58
-        height: 22
+        x: 0
+        y: 0
+        width: 64
+        height: 44
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38874cab070921a4bbfac7e99a41b1fb
-      internalID: -1911532871
+      spriteID: f0b30ae1945cc1746b4f9d4da775de6a
+      internalID: -584413730
       vertices: []
       indices: 
       edges: []
@@ -122,7 +122,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 45eeb45a74dfd894f8efd35b51f428f5
+    spriteID: 6ad67db3f0624484fa6b85eda361c345
     internalID: 0
     vertices: []
     indices: 
@@ -132,7 +132,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MinimizeButton_0: -1911532871
+      OpenIconRB_0: -584413730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

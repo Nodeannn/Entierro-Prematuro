@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0d201e52f2fbf2449bac2f58e8ec67d2
+guid: 4b4760c0d8241be469912162ba84b8b0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: W7App_0
+      name: Captura de pantalla 2025-10-06 171513_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 696
-        height: 534
+        width: 936
+        height: 584
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c584bd0a6ba24f43834350933b2ebb7
-      internalID: -362023650
+      spriteID: 227dae3912a3a49419d9cf0abcad4e85
+      internalID: -78331459
       vertices: []
       indices: 
       edges: []
@@ -122,7 +122,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 13850f4ac34c5f34a8d6e662163e0c83
+    spriteID: 0d9fe28c99a992c42a63253e4b75e955
     internalID: 0
     vertices: []
     indices: 
@@ -132,7 +132,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      W7App_0: -362023650
+      Captura de pantalla 2025-10-06 171513_0: -78331459
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

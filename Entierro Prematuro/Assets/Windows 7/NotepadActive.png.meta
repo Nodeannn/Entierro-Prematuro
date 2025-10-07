@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 10076e61b5ad26e438235e5320172f99
+guid: ea37aac04b06f4045ba8c34c4f765ba6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: W7Speaker_0
+      name: NotepadActive_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 600
-        height: 600
+        width: 64
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e548d8616ea52d4eabf4c7804e11309
-      internalID: -1388413622
+      spriteID: f1d2b28054242f24aa75ab934520bf10
+      internalID: -1468943568
       vertices: []
       indices: 
       edges: []
@@ -122,7 +122,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ab9f579a9e4c68c4696f07f26f978a5c
+    spriteID: 75077de8071ca3c46b9d400030d8bf48
     internalID: 0
     vertices: []
     indices: 
@@ -132,7 +132,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      W7Speaker_0: -1388413622
+      NotepadActive_0: -1468943568
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
