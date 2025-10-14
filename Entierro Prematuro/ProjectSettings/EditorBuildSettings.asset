@@ -15,8 +15,11 @@ EditorBuildSettings:
     path: Assets/Scenes/PCScene.unity
     guid: f3bbbbe82010d0e4d8f63b524e547d89
   - enabled: 1
-    path: Assets/Scenes/First Sesion.unity
+    path: Assets/Scenes/Sesiones/First Sesion.unity
     guid: 43261ed3c809a01438fbb48c6ff7e6d4
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/First Sesion 2.unity
+    guid: d6f0b09c4ca747345861afd358d242c6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
