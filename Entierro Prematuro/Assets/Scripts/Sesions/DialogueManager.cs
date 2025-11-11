@@ -34,8 +34,6 @@ public class DialogueManager : MonoBehaviour
     private string currentLine = "";
     private Coroutine typingCoroutine;
 
-    private bool mostrarOpcionesAlFinal = true;
-    private string proximaEscena = "";
     private Dialogue siguienteDialogo = null;
 
     [Header("Config Opciones")]
@@ -112,18 +110,29 @@ public class DialogueManager : MonoBehaviour
             return;
         }
 
-        if (!string.IsNullOrEmpty(proximaEscena))
+        if (!mainDialogue.mostrarOpcionesAlFinal)
         {
-            SceneManager.LoadScene(proximaEscena);
+            if (!string.IsNullOrEmpty(proxEscena))
+            {
+                SceneManager.LoadScene(proxEscena);
+                return;
+            }
+
+            if (aDialogue != null)
+            {
+                StartDialogue(aDialogue);
+                return;
+            }
+
+            Debug.Log("Diálogo terminado sin opciones ni escena asignada.");
             return;
         }
 
-        if (mostrarOpcionesAlFinal)
-        {
-            string[] opciones = { Opcion1, Opcion2, Opcion3 };
-            choiceManager.ShowChoices(opciones, OnChoiceSelected);
-        }
+        string[] opciones = { Opcion1, Opcion2, Opcion3 };
+        choiceManager.ShowChoices(opciones, OnChoiceSelected);
     }
+
+
 
     private void OnChoiceSelected(int index)
     {
@@ -136,7 +145,6 @@ public class DialogueManager : MonoBehaviour
 
                 StartDialogue(aDialogue);
                 puntuacion += pointsA;
-                proximaEscena = proxEscena;
                 break;
 
             case 1:
@@ -146,7 +154,6 @@ public class DialogueManager : MonoBehaviour
 
                 StartDialogue(bDialogue);
                 puntuacion += pointsB;
-                proximaEscena = proxEscena;
                 break;
 
             case 2:
@@ -156,7 +163,6 @@ public class DialogueManager : MonoBehaviour
 
                 StartDialogue(cDialogue);
                 puntuacion += pointsC;
-                proximaEscena = proxEscena;
                 break;
         }
     }

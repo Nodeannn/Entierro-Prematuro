@@ -14,59 +14,127 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - speaker: Pensamiento
-    text: "Mi primer paciente desde\u2026 desde aquel d\xEDa."
-    isTalking: 0
+    text: La luz entra suavemente por la ventana. El reloj marca las cuatro.
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
   - speaker: Pensamiento
-    text: "Todav\xEDa recuerdo su rostro cuando me dijo que no pod\xEDa m\xE1s"
-    isTalking: 0
+    text: "Mis manos hojean las notas del caso: \"Var\xF3n, 45 a\xF1os. P\xE9rdida
+      reciente de hija mayor en accidente automovil\xEDstico. Hija menor sufre de
+      catalepsia.\""
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
   - speaker: Pensamiento
-    text: "Y mi voz, insegura, rota. No lo salv\xE9. Lo perd\xED."
-    isTalking: 0
+    text: "Mi primer paciente desde... desde ese d\xEDa."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
   - speaker: Pensamiento
-    text: "Y ahora debo volver a intentarlo. \xBFSer\xE1 que me estoy enga\xF1ando
-      al creer que a\xFAn soy capaz?"
-    isTalking: 0
-  - speaker: Padre
-    text: "Ella no puede quedarse sola\u2026"
-    isTalking: 1
-  - speaker: Padre
-    text: "\xBFlo entiende?"
-    isTalking: 1
-  - speaker: Padre
-    text: " Si cierro los ojos, aunque sea un minuto, podr\xEDa morir como su hermana.\r\n"
-    isTalking: 1
+    text: "Todav\xEDa recuerdo su cara cuando me dijo que no pod\xEDa m\xE1s. Y mi
+      voz, insegura, rota."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
   - speaker: Pensamiento
-    text: "No hay saludo, no hay presentaci\xF3n."
-    isTalking: 0
-  - speaker: Pensamiento
-    text: Solo urgencia.
-    isTalking: 0
-  - speaker: Pensamiento
-    text: "Su voz tiembla y se quiebra. No habla de s\xED mismo, sino de la hija
-      que a\xFAn vive."
-    isTalking: 0
-  - speaker: Pensamiento
-    text: "Para \xE9l, no hay diferencia entre catalepsia y muerte."
-    isTalking: 0
-  - speaker: Pensamiento
-    text: "Ya perdi\xF3 una hija\u2026 y su duelo se ha convertido en una prisi\xF3n
-      para la otra."
-    isTalking: 0
-  - speaker: Padre
-    text: "Ya perd\xED una hija. No pienso perder otra."
-    isTalking: 1
-  - speaker: Padre
-    text: 'No voy a permitir que el destino me la arrebate.
-
-'
-    isTalking: 1
-  - speaker: Pensamiento
-    text: "Mi respuesta marcar\xE1 el tono de esta relaci\xF3n."
-    isTalking: 0
-  - speaker: Pensamiento
-    text: "Puedo acercarme con empat\xEDa, cuestionar su obsesi\xF3n, o invitarlo
-      a hablar de la hija que ya no est\xE1."
-    isTalking: 0
-  - speaker: Pensamiento
-    text: "A\xFAn es pronto\u2026 pero debo elegir con cuidado."
-    isTalking: 0
+    text: "No la salv\xE9. La perd\xED. Y ahora tengo que volver a intentarlo. \xBFSer\xE1
+      que me estoy enga\xF1ando al creer que a\xFAn soy capaz?"
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  mostrarOpcionesAlFinal: 0

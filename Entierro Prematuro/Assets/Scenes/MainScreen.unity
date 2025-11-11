@@ -1810,6 +1810,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: buchset_artstation
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bff630f0c9beea14aaa5d0a184f44d5b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6497345733320145644, guid: bff630f0c9beea14aaa5d0a184f44d5b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.02

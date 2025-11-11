@@ -18,8 +18,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Sesiones/First Sesion.unity
     guid: 43261ed3c809a01438fbb48c6ff7e6d4
   - enabled: 1
+    path: Assets/Scenes/Sesiones/First Sesion 1.unity
+    guid: 7575da00eba44cf4b9be1186e2633a2d
+  - enabled: 1
     path: Assets/Scenes/Sesiones/First Sesion 2.unity
-    guid: d6f0b09c4ca747345861afd358d242c6
+    guid: 881c1130624760a44a80f7504e9e7433
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/First Sesion 3.unity
+    guid: fe1c5fdab4d3cf4419a5bce7898842df
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/First Sesion 4.unity
+    guid: bc5fe034ef011ad43854bca55d2f9e29
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
