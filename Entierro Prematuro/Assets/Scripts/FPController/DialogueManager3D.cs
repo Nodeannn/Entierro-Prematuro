@@ -15,6 +15,7 @@ public class DialogueManager3D : MonoBehaviour
     [SerializeField] private GameObject speakerBox;
     [SerializeField] private GameObject DialogBox;
     [SerializeField] private FPController player;
+    [SerializeField] private GameObject Interact;
 
     [Header("Texto Config")]
     [SerializeField] private float typingSpeed = 0.03f;
@@ -32,7 +33,6 @@ public class DialogueManager3D : MonoBehaviour
     [SerializeField] private Dialogue cDialogue;
 
     [Header("End Route")]
-    [SerializeField] private bool esUltimaSesion = false;
     [SerializeField] private string finalMalo = "Final_Malo";
     [SerializeField] private string finalMedio = "Final_Medio";
     [SerializeField] private string finalBueno = "Final_Bueno";
@@ -65,6 +65,7 @@ public class DialogueManager3D : MonoBehaviour
         speakerText.SetActive(true);
         speakerBox.SetActive(true);
         DialogBox.SetActive(true);
+        Interact.SetActive(false);
 
         if (player != null)
         {
@@ -127,6 +128,7 @@ public class DialogueManager3D : MonoBehaviour
         speakerText.SetActive(false);
         speakerBox.SetActive(false);
         DialogBox.SetActive(false);
+        Interact.SetActive(true);
 
         if (mainDialogue.mostrarOpcionesAlFinal)
         {
@@ -136,26 +138,9 @@ public class DialogueManager3D : MonoBehaviour
             return;
         }
 
-        if (esUltimaSesion && GameManager.instance != null)
+        if (mainDialogue.esUltimaSesion)
         {
-            int finalScore = GameManager.instance.GetScore();
-
-            if (finalScore >= punMaxBuena)
-            {
-                SceneManager.LoadScene(finalBueno);
-            }
-            else if (finalScore >= punMinMedia && finalScore <= punMaxMedia)
-            {
-                SceneManager.LoadScene(finalMedio);
-            }
-            else if (finalScore >= punMinMala && finalScore <= punMaxMala)
-            {
-                SceneManager.LoadScene(finalMalo);
-            }
-        }
-        else
-        {
-            Debug.LogWarning("GameManager no encontrado, no se puede determinar el final.");
+            StartCoroutine(EsperarYEvaluarFinal());
         }
 
         if (player != null)
@@ -196,7 +181,7 @@ public class DialogueManager3D : MonoBehaviour
                 speakerText.SetActive(true);
                 speakerBox.SetActive(true);
                 DialogBox.SetActive(true);
-
+                
                 StartDialogue(cDialogue);
                 if (GameManager.instance != null)
                 {
@@ -217,6 +202,34 @@ public class DialogueManager3D : MonoBehaviour
 
         if (player != null)
             player.LockPlayerControls(false);
+    }
+
+    private IEnumerator EsperarYEvaluarFinal()
+    {
+ 
+        yield return null;
+
+        if (GameManager.instance == null)
+        {
+            Debug.LogError("⚠️ GameManager no encontrado. No se puede determinar el final.");
+            yield break;
+        }
+
+        int finalScore = GameManager.instance.GetScore();
+        Debug.Log($"Puntaje final detectado: {finalScore}");
+
+        if (finalScore >= punMaxBuena)
+        {
+            SceneManager.LoadScene(finalBueno);
+        }
+        else if (finalScore >= punMinMedia && finalScore <= punMaxMedia)
+        {
+            SceneManager.LoadScene(finalMedio);
+        }
+        else if (finalScore >= punMinMala && finalScore <= punMaxMala)
+        {
+            SceneManager.LoadScene(finalMalo);
+        }
     }
 
     void Update()

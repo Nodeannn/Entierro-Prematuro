@@ -31,7 +31,7 @@ public class DialogueManager : MonoBehaviour
     [SerializeField] private Dialogue cDialogue;
 
     [Header("End Route")]
-    [SerializeField] private bool esUltimaSesion = false;
+
     [SerializeField] private string finalMalo = "Final_Malo";
     [SerializeField] private string finalMedio = "Final_Medio";
     [SerializeField] private string finalBueno = "Final_Bueno";
@@ -129,7 +129,7 @@ public class DialogueManager : MonoBehaviour
                 return;
             }
 
-            if (esUltimaSesion && GameManager.instance != null)
+            if (mainDialogue.esUltimaSesion && GameManager.instance != null)
             {
                 int finalScore = GameManager.instance.GetScore();
 

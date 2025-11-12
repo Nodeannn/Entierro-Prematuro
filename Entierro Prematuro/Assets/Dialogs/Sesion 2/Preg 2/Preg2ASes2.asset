@@ -38,3 +38,4 @@ MonoBehaviour:
     isExtremoQCY: 0
     isExtremoHorror: 0
   mostrarOpcionesAlFinal: 0
+  esUltimaSesion: 1

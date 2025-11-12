@@ -702,7 +702,7 @@ MonoBehaviour:
   texto: {fileID: 1173021918}
   time: 1
   timeScene: 2
-  nextScene: First Sesion
+  nextScene: Second Sesion
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

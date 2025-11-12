@@ -6,4 +6,5 @@ public class Dialogue : ScriptableObject
 {
     public List<DialogueLine> lines = new List<DialogueLine>();
     public bool mostrarOpcionesAlFinal = true;
+    public bool esUltimaSesion = false;
 }

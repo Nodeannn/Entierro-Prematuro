@@ -4235,6 +4235,7 @@ MonoBehaviour:
   speakerBox: {fileID: 9218266325402479821}
   DialogBox: {fileID: 3895789052778935272}
   player: {fileID: 1710403895}
+  Interact: {fileID: 981138358}
   typingSpeed: 0.01
   unlockPlayer: 1
   Opcion1: Analizar Las farolas
@@ -4244,7 +4245,7 @@ MonoBehaviour:
   aDialogue: {fileID: 11400000, guid: c8695bb0c204afa4e8de2df18d15034f, type: 2}
   bDialogue: {fileID: 11400000, guid: 9a466c40b7c937b468aae50104291a94, type: 2}
   cDialogue: {fileID: 11400000, guid: c3b13be8e6d5e604daaeecce6ecdb1c8, type: 2}
-  esUltimaSesion: 1
+  esUltimaSesion: 0
   finalMalo: Second Sesion 2
   finalMedio: Second Sesion 2
   finalBueno: Second Sesion 2

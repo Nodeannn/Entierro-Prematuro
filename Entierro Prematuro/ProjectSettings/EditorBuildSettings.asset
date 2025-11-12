@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Sesiones/Second Sesion/Second Sesion 1.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
     path: Assets/Scenes/MainScreen.unity
     guid: ab56c50f0af8be940b8bce5484c4aca5
   - enabled: 1
@@ -35,6 +32,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sesiones/Second Sesion/Charge Second.unity
     guid: ea98758734e0bc6489468fb15e747628
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/Second Sesion/Second Sesion.unity
+    guid: c3f9cf9d089ed1c43a8db11417f00493
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/Second Sesion/Second Sesion 1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/Second Sesion/Second Sesion 2.unity
+    guid: 156fc10a1acaccd45accc3bffbd8fa73
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/Second Sesion/Second Sesion 3.unity
+    guid: b5cd885b436eb9045aa8f0d325f68782
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
