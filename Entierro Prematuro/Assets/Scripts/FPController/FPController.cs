@@ -41,6 +41,10 @@ public class FPController : MonoBehaviour
     [SerializeField] Camera playerCamera;
     [SerializeField] CharacterController characterController;
 
+    [Header("Check Bools")]
+    [SerializeField] public bool lockCamera = false;
+    [SerializeField] public bool lockMovement = false;
+
     private void Start()
     {
         Cursor.visible = false;
@@ -86,41 +90,64 @@ public class FPController : MonoBehaviour
 
     void moveUpdate()
     {
-        Vector3 motion = transform.forward * moveInput.y + transform.right * moveInput.x;
-        motion.y = 0f;
-        motion.Normalize();
-
-        if (motion.sqrMagnitude >= 0.01f)
+        if (lockMovement == false)
         {
-            CurrentVelocity = Vector3.MoveTowards(CurrentVelocity, motion * maxSpeed, acceleration * Time.deltaTime);
+            Vector3 motion = transform.forward * moveInput.y + transform.right * moveInput.x;
+            motion.y = 0f;
+            motion.Normalize();
+
+            if (motion.sqrMagnitude >= 0.01f)
+            {
+                CurrentVelocity = Vector3.MoveTowards(CurrentVelocity, motion * maxSpeed, acceleration * Time.deltaTime);
+            }
+            else
+            {
+                CurrentVelocity = Vector3.MoveTowards(CurrentVelocity, Vector3.zero, acceleration * Time.deltaTime);
+            }
+
+            float verticalVelocity = Physics.gravity.y * 20f * Time.deltaTime;
+
+            Vector3 fullVelocity = new Vector3(CurrentVelocity.x, verticalVelocity, CurrentVelocity.z);
+
+            characterController.Move(fullVelocity * maxSpeed * Time.deltaTime);
+
+            CurrentSpeed = CurrentVelocity.magnitude;
         }
-        else
-        {
-            CurrentVelocity = Vector3.MoveTowards(CurrentVelocity, Vector3.zero, acceleration * Time.deltaTime);
-        }
-
-        float verticalVelocity = Physics.gravity.y * 20f * Time.deltaTime;
-
-        Vector3 fullVelocity = new Vector3(CurrentVelocity.x, verticalVelocity, CurrentVelocity.z);
-
-        characterController.Move(fullVelocity * maxSpeed * Time.deltaTime);
-
-        CurrentSpeed = CurrentVelocity.magnitude;
     }
 
     void lookUpdate()
     {
-        Vector2 input = new Vector2(lookInput.x * lookSensitivity.x, lookInput.y * lookSensitivity.y);
+        if (lockCamera == false)
+        {
+            Vector2 input = new Vector2(lookInput.x * lookSensitivity.x, lookInput.y * lookSensitivity.y);
 
-        // This is for Up and Down
+            // This is for Up and Down
 
-        CurrentPitch -= input.y;
+            CurrentPitch -= input.y;
 
-        playerCamera.transform.localRotation = Quaternion.Euler(CurrentPitch, 0f, 0f);
+            playerCamera.transform.localRotation = Quaternion.Euler(CurrentPitch, 0f, 0f);
 
-        // This is for Left and Right
+            // This is for Left and Right
 
-        transform.Rotate(Vector3.up * input.x);
+            transform.Rotate(Vector3.up * input.x);
+        }
+    }
+
+    public void LockPlayerControls(bool state)
+    {
+        lockMovement = state;
+        lockCamera = state;
+
+        if (state)
+        {
+            Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
+        }
+        else
+        {
+            Cursor.visible = false;
+            Cursor.lockState = CursorLockMode.Locked;
+        }
     }
 }
 

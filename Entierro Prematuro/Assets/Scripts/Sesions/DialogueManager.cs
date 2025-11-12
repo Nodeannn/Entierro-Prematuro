@@ -1,8 +1,9 @@
-using UnityEngine;
-using TMPro;
 using System.Collections;
-using UnityEngine.SceneManagement;
+using TMPro;
+using UnityEngine;
 using UnityEngine.Rendering.VirtualTexturing;
+using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -29,6 +30,18 @@ public class DialogueManager : MonoBehaviour
     [SerializeField] private Dialogue bDialogue;
     [SerializeField] private Dialogue cDialogue;
 
+    [Header("End Route")]
+    [SerializeField] private bool esUltimaSesion = false;
+    [SerializeField] private string finalMalo = "Final_Malo";
+    [SerializeField] private string finalMedio = "Final_Medio";
+    [SerializeField] private string finalBueno = "Final_Bueno";
+
+    [SerializeField] private float punMaxBuena = 15;
+    [SerializeField] private float punMaxMedia = 14;
+    [SerializeField] private float punMinMedia = 9;
+    [SerializeField] private float punMaxMala = 8;
+    [SerializeField] private float punMinMala = 0;
+
     private int index;
     private bool isTyping;
     private string currentLine = "";
@@ -42,8 +55,6 @@ public class DialogueManager : MonoBehaviour
     [SerializeField] public int pointsC = 0;
 
     [SerializeField] private string proxEscena = "";
-
-    static int puntuacion = 0;
 
     public void StartDialogue(Dialogue dialogue)
     {
@@ -118,10 +129,26 @@ public class DialogueManager : MonoBehaviour
                 return;
             }
 
-            if (aDialogue != null)
+            if (esUltimaSesion && GameManager.instance != null)
             {
-                StartDialogue(aDialogue);
-                return;
+                int finalScore = GameManager.instance.GetScore();
+
+                if (finalScore >= punMaxBuena)
+                {
+                    SceneManager.LoadScene(finalBueno);
+                }
+                else if (finalScore >= punMinMedia && finalScore <= punMaxMedia)
+                {
+                    SceneManager.LoadScene(finalMedio);
+                }
+                else if (finalScore >= punMinMala && finalScore <= punMaxMala)
+                {
+                    SceneManager.LoadScene(finalMalo);
+                }
+            }
+            else
+            {
+                Debug.LogWarning("GameManager no encontrado, no se puede determinar el final.");
             }
 
             Debug.Log("Diálogo terminado sin opciones ni escena asignada.");
@@ -144,7 +171,10 @@ public class DialogueManager : MonoBehaviour
                 speakerBox.SetActive(true);
 
                 StartDialogue(aDialogue);
-                puntuacion += pointsA;
+                if (GameManager.instance != null)
+                {
+                    GameManager.instance.AddScore(pointsA);
+                }
                 break;
 
             case 1:
@@ -153,7 +183,10 @@ public class DialogueManager : MonoBehaviour
                 speakerBox.SetActive(true);
 
                 StartDialogue(bDialogue);
-                puntuacion += pointsB;
+                if (GameManager.instance != null)
+                {
+                    GameManager.instance.AddScore(pointsB);
+                }
                 break;
 
             case 2:
@@ -162,7 +195,10 @@ public class DialogueManager : MonoBehaviour
                 speakerBox.SetActive(true);
 
                 StartDialogue(cDialogue);
-                puntuacion += pointsC;
+                if (GameManager.instance != null)
+                {
+                    GameManager.instance.AddScore(pointsC);
+                }
                 break;
         }
     }
