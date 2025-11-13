@@ -10,84 +10,63 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8184acd36e713634eaad195574b0882b, type: 3}
-  m_Name: Preg2ASes3Mal
+  m_Name: Pos Third Conversation 3
   m_EditorClassIdentifier: 
   lines:
+  - speaker: Pensamiento
+    text: "Estoy diciendo lo correcto, lo que deber\xEDa decir. Pero su mirada, su
+      cansancio, es id\xE9ntico al de ella."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Pensamiento
+    text: Y esta vez no puedo permitirme dudar, aunque sienta que lo que le digo
+      no alcanza. Por que tiene que alcanzar.
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
   - speaker: Psiquiatra
-    text: "Tal vez fue solo un sue\xF1o, con una mezcla de sus recuerdos."
-    isMirandoAbajo: 0
-    isMirandoCostado: 0
-    isMirandoDerecha: 0
-    isAbajo: 0
-    isHablando1: 0
-    isHablando2: 0
-    isMedioFeliz: 0
-    isConmovido: 0
-    isFeliz: 0
-    isEnojado: 0
-    isMasEnojado: 0
-    isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
-    isMedioTriste: 0
-    isLlorando: 0
-    isTriste: 0
-    isPreocupado: 0
-    isAsustarse: 0
-    isAsustado: 0
-    isExtremoEnojado: 0
-    isExtremoQCY: 0
-    isExtremoHorror: 0
-  - speaker: Padre
-    text: "\xBFUn sue\xF1o? Quiz\xE1s... s\xED. Aunque, cuando veo a Rocio, huele
-      igual que antes. Los sue\xF1os no se huelen."
-    isMirandoAbajo: 0
-    isMirandoCostado: 0
-    isMirandoDerecha: 0
-    isAbajo: 0
-    isHablando1: 0
-    isHablando2: 0
-    isMedioFeliz: 0
-    isConmovido: 0
-    isFeliz: 0
-    isEnojado: 0
-    isMasEnojado: 0
-    isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
-    isMedioTriste: 0
-    isLlorando: 0
-    isTriste: 0
-    isPreocupado: 0
-    isAsustarse: 0
-    isAsustado: 0
-    isExtremoEnojado: 0
-    isExtremoQCY: 0
-    isExtremoHorror: 0
-  - speaker: Psiquiatra
-    text: "A veces, los sue\xF1os son solo el eco de lo que no pudimos despedir."
-    isMirandoAbajo: 0
-    isMirandoCostado: 0
-    isMirandoDerecha: 0
-    isAbajo: 0
-    isHablando1: 0
-    isHablando2: 0
-    isMedioFeliz: 0
-    isConmovido: 0
-    isFeliz: 0
-    isEnojado: 0
-    isMasEnojado: 0
-    isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
-    isMedioTriste: 0
-    isLlorando: 0
-    isTriste: 0
-    isPreocupado: 0
-    isAsustarse: 0
-    isAsustado: 0
-    isExtremoEnojado: 0
-    isExtremoQCY: 0
-    isExtremoHorror: 0
-  - speaker: Padre
-    text: "Entonces, sigo despidi\xE9ndome mal."
+    text: "Eso es todo por hoy. Fue una sesi\xF3n bastante intensa y creo que le
+      har\xEDa muy bien pensar a fondo en todo lo que hablamos. Nos vemos la pr\xF3xima
+      semana."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -111,4 +90,4 @@ MonoBehaviour:
     isExtremoQCY: 0
     isExtremoHorror: 0
   mostrarOpcionesAlFinal: 0
-  esUltimaSesion: 0
+  esUltimaSesion: 1

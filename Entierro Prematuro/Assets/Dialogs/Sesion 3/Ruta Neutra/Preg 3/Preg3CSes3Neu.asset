@@ -10,11 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8184acd36e713634eaad195574b0882b, type: 3}
-  m_Name: Preg2ASes3Mal
+  m_Name: Preg3CSes3Neu
   m_EditorClassIdentifier: 
   lines:
   - speaker: Psiquiatra
-    text: "Tal vez fue solo un sue\xF1o, con una mezcla de sus recuerdos."
+    text: "Debe ser agotador vivir con esa responsabilidad. Quiz\xE1s podr\xEDamos
+      pensar en c\xF3mo aliviarla poco a poco."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -38,8 +39,8 @@ MonoBehaviour:
     isExtremoQCY: 0
     isExtremoHorror: 0
   - speaker: Padre
-    text: "\xBFUn sue\xF1o? Quiz\xE1s... s\xED. Aunque, cuando veo a Rocio, huele
-      igual que antes. Los sue\xF1os no se huelen."
+    text: "Tal vez... Pero si no lo hago yo, \xBFqui\xE9n la cuida? Nadie entiende
+      su condici\xF3n."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -63,7 +64,8 @@ MonoBehaviour:
     isExtremoQCY: 0
     isExtremoHorror: 0
   - speaker: Psiquiatra
-    text: "A veces, los sue\xF1os son solo el eco de lo que no pudimos despedir."
+    text: Podemos buscar maneras de que no sea solo usted. A veces, soltar un poco
+      no es perder, sino recuperar fuerzas.
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -87,7 +89,31 @@ MonoBehaviour:
     isExtremoQCY: 0
     isExtremoHorror: 0
   - speaker: Padre
-    text: "Entonces, sigo despidi\xE9ndome mal."
+    text: "S\xED, claro."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Pensamiento
+    text: "Asiente por cortes\xEDa. Est\xE1 agotado. No puedo culparlo..."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
