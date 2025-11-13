@@ -16,7 +16,7 @@ MonoBehaviour:
   - speaker: Pensamiento
     text: "La luz del consultorio es tenue. El reloj suena m\xE1s fuerte de lo normal."
     isMirandoAbajo: 0
-    isMirandoCostado: 0
+    isMirandoCostado: 1
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0

@@ -119,7 +119,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &265501932
+--- !u!1001 &1268039150
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -130,7 +130,7 @@ PrefabInstance:
     - target: {fileID: 4637578457417510736, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: dialogueToStart
       value: 
-      objectReference: {fileID: 11400000, guid: 0d25d43b5545b80428cd38e5e2edce35, type: 2}
+      objectReference: {fileID: 11400000, guid: 0e503d973688a8e4487e8a4281fee3fe, type: 2}
     - target: {fileID: 5661690325764744557, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: m_Name
       value: Gameplay
@@ -177,99 +177,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: Opcion1
-      value: "Conciliar y Mantener Sue\xF1o"
+      value: Dudar de recuerdos
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: Opcion2
-      value: "Ayuda a Estr\xE9s Postraumatico"
+      value: Olvidar el pasado
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: Opcion3
-      value: "Antipsic\xF3tico"
-      objectReference: {fileID: 0}
-    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
-      propertyPath: pointsA
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
-      propertyPath: pointsB
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
-      propertyPath: pointsC
-      value: -1
+      value: Recordar el lago
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: aDialogue
       value: 
-      objectReference: {fileID: 11400000, guid: 75972d66f71f26b4fa0366747602ae6e, type: 2}
+      objectReference: {fileID: 11400000, guid: 800195d0762800340a372a54b69f77f5, type: 2}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: bDialogue
       value: 
-      objectReference: {fileID: 11400000, guid: 0e0a07c7a8e39f848b1d5e5edab958f8, type: 2}
+      objectReference: {fileID: 11400000, guid: 0a6b05f09b051184eb4953fa2141ab51, type: 2}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: cDialogue
       value: 
-      objectReference: {fileID: 11400000, guid: 7f8dea593523fb740b8051d90579f404, type: 2}
+      objectReference: {fileID: 11400000, guid: f50184ef4c722d846bce30c5111aacff, type: 2}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
-      propertyPath: finalMalo
-      value: Charge Bad Third
-      objectReference: {fileID: 0}
-    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
-      propertyPath: finalBueno
-      value: Charge Positive Third
-      objectReference: {fileID: 0}
-    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
-      propertyPath: finalMedio
-      value: Charge Neutral Third
-      objectReference: {fileID: 0}
-    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
-      propertyPath: punMaxMala
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
-      propertyPath: punMaxBuena
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
-      propertyPath: punMaxMedia
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
-      propertyPath: punMinMedia
-      value: 4
+      propertyPath: proxEscena
+      value: Neutral Third Sesion 2
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: mainDialogue
       value: 
-      objectReference: {fileID: 11400000, guid: 0d25d43b5545b80428cd38e5e2edce35, type: 2}
+      objectReference: {fileID: 11400000, guid: 2b07c64d1448d2c4fa4a423ef4a120b1, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 2373707823409070478, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 265501934}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
---- !u!1 &265501933 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2373707823409070478, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
-  m_PrefabInstance: {fileID: 265501932}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &265501934
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 265501933}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 41dd5a500dba9594d800a96519b5e571, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 265501932}
+  - {fileID: 1268039150}
