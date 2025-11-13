@@ -12,38 +12,86 @@ EditorBuildSettings:
     path: Assets/Scenes/PCScene.unity
     guid: f3bbbbe82010d0e4d8f63b524e547d89
   - enabled: 1
-    path: Assets/Scenes/Sesiones/First Sesion/Charge First.unity
+    path: Assets/Scenes/Sesiones/1 First Sesion/Charge First.unity
     guid: 50f9e9bb6a714c34196aab5a35d0c714
   - enabled: 1
-    path: Assets/Scenes/Sesiones/First Sesion/First Sesion.unity
+    path: Assets/Scenes/Sesiones/1 First Sesion/First Sesion.unity
     guid: 7575da00eba44cf4b9be1186e2633a2d
   - enabled: 1
-    path: Assets/Scenes/Sesiones/First Sesion/First Sesion 1.unity
+    path: Assets/Scenes/Sesiones/1 First Sesion/First Sesion 1.unity
     guid: 0f81bad40d904104789c0e2a31003f0c
   - enabled: 1
-    path: Assets/Scenes/Sesiones/First Sesion/First Sesion 2.unity
+    path: Assets/Scenes/Sesiones/1 First Sesion/First Sesion 2.unity
     guid: 62502ad95dd2fda4b9a5ec1ee7a773f4
   - enabled: 1
-    path: Assets/Scenes/Sesiones/First Sesion/First Sesion 3.unity
+    path: Assets/Scenes/Sesiones/1 First Sesion/First Sesion 3.unity
     guid: 1dc2e16f9f1d94942b1753b398c18ac6
   - enabled: 1
-    path: Assets/Scenes/Sesiones/First Sesion/First Sesion 4.unity
+    path: Assets/Scenes/Sesiones/1 First Sesion/First Sesion 4.unity
     guid: e11d9b9e6bd51494db94bb01ebc120c7
   - enabled: 1
-    path: Assets/Scenes/Sesiones/Second Sesion/Charge Second.unity
+    path: Assets/Scenes/Sesiones/2 Second Sesion/Charge Second.unity
     guid: ea98758734e0bc6489468fb15e747628
   - enabled: 1
-    path: Assets/Scenes/Sesiones/Second Sesion/Second Sesion.unity
+    path: Assets/Scenes/Sesiones/2 Second Sesion/Second Sesion.unity
     guid: c3f9cf9d089ed1c43a8db11417f00493
   - enabled: 1
-    path: Assets/Scenes/Sesiones/Second Sesion/Second Sesion 1.unity
+    path: Assets/Scenes/Sesiones/2 Second Sesion/Second Sesion 1.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Sesiones/Second Sesion/Second Sesion 2.unity
+    path: Assets/Scenes/Sesiones/2 Second Sesion/Second Sesion 2.unity
     guid: 156fc10a1acaccd45accc3bffbd8fa73
   - enabled: 1
-    path: Assets/Scenes/Sesiones/Second Sesion/Second Sesion 3.unity
+    path: Assets/Scenes/Sesiones/2 Second Sesion/Second Sesion 3.unity
     guid: b5cd885b436eb9045aa8f0d325f68782
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Bad/Charge Bad Third.unity
+    guid: d5e629ffa5b5733458707ca3f29fad73
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Bad/Bad Third Sesion.unity
+    guid: fc2df8acd83945348a6497f5f693b724
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Bad/Bad Third Sesion 1.unity
+    guid: 690e4fe5a250f914d8a64e21e0cfef71
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Bad/Bad Third Sesion 2.unity
+    guid: e273feaed3620cc47afba621450e7eb7
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Bad/Bad Third Sesion 3.unity
+    guid: 400f98008f735d74cbe0f1be5745ab41
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Bad/Bad Third Sesion 4.unity
+    guid: 8f37edd5660553340a84fa6cd0c8fd8a
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Neutral/Charge Neutral Third.unity
+    guid: f45282ced667d3c41952a64183dbd860
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Neutral/Neutral Third Sesion.unity
+    guid: f2fc44f4fb9795140b08bc87de6e67bd
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Neutral/Neutral Third Sesion 1.unity
+    guid: 1bc2d74f9bbe3d34cbab9a26f46a4c0d
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Neutral/Neutral Third Sesion 2.unity
+    guid: ca8964ef8cf74db4b97c4ad18f3dd1fc
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Neutral/Neutral Third Sesion 3.unity
+    guid: d3ce41271eb0700468049e5235abf5f4
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Positive/Charge Positive Third.unity
+    guid: 3a0bb6282c1862a4bb93c6107b41f74a
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Positive/Positive Third Sesion.unity
+    guid: 8fc713e18e18d894bba0993b19b9c45d
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Positive/Positive Third Sesion 1.unity
+    guid: 552efbf958e6e604182dac591f02bcc8
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Positive/Positive Third Sesion 2.unity
+    guid: 1e3e1afadf7163242ade46e37e057944
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/3 Third Sesion/Positive/Positive Third Sesion 3.unity
+    guid: e318dd1a21d313043b5cd8586f66ddd3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
