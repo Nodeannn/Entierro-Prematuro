@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c2dde7f4286ed684ab21ab1ba94757e7
+guid: 5c48acb96e41cc141834e86140625921
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -95,46 +95,23 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Brazos_4_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1600
-        height: 1000
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 123f02eb17be47b4f83d170c015a8632
-      internalID: -876143785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f9f238053d1b0854fb163b24d4610ea6
+    spriteID: 76d0d985eb78a554bb3ef7b34de60c2e
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures:
-    - texture: {fileID: 2800000, guid: 8e08cdaf06c4d9f409cf0b5496d0381c, type: 3}
+    - texture: {fileID: 2800000, guid: 331b571654f69bf4d949ad2e1e6bf9e3, type: 3}
       name: _NormalMap
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Brazos_4_0: -876143785
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
