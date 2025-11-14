@@ -127,6 +127,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4637578457417510736, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
+      propertyPath: dialogueToStart
+      value: 
+      objectReference: {fileID: 11400000, guid: 5ce55ee4992fc9b43944c580a27ba286, type: 2}
     - target: {fileID: 5661690325764744557, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: m_Name
       value: Gameplay
@@ -183,6 +187,30 @@ PrefabInstance:
       propertyPath: Opcion3
       value: Consultar por perdida
       objectReference: {fileID: 0}
+    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
+      propertyPath: pointsA
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
+      propertyPath: pointsB
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
+      propertyPath: pointsC
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
+      propertyPath: aDialogue
+      value: 
+      objectReference: {fileID: 11400000, guid: d465b9e5717bb264fa7cc15a065f9408, type: 2}
+    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
+      propertyPath: bDialogue
+      value: 
+      objectReference: {fileID: 11400000, guid: a061c3ef4ebe5ab44aad98e9e3eb004d, type: 2}
+    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
+      propertyPath: cDialogue
+      value: 
+      objectReference: {fileID: 11400000, guid: 6d463ae14fbf0de468ad7e4c79cfce31, type: 2}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: proxEscena
       value: First Sesion 2

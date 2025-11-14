@@ -28,6 +28,11 @@ public class GameManager : MonoBehaviour
         return score;
     }
 
+    public void SetScore(int amount)
+    {
+        score = amount;
+    }
+
     public void ResetScore()
     {
         score = 0;

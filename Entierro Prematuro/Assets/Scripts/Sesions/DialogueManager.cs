@@ -42,6 +42,13 @@ public class DialogueManager : MonoBehaviour
     [SerializeField] private float punMaxMala = 8;
     [SerializeField] private float punMinMala = 0;
 
+    [Header("Audio")]
+    public AudioClip vozPadre;
+    public AudioClip vozPsiquiatra;
+    public AudioSource audioSource;
+
+    private AudioClip vozActual;
+
     private int index;
     private bool isTyping;
     private string currentLine = "";
@@ -87,6 +94,8 @@ public class DialogueManager : MonoBehaviour
         nameText.text = line.speaker;
         currentLine = line.text;
 
+        SetVoiceBySpeaker(line.speaker);
+
         if (characterView != null)
             characterView.ApplyDialogueLineBools(line);
 
@@ -102,6 +111,12 @@ public class DialogueManager : MonoBehaviour
         foreach (char c in line)
         {
             dialogueText.text += c;
+
+            if (!char.IsWhiteSpace(c) && vozActual != null)
+            {
+                audioSource.pitch = Random.Range(0.95f, 1.05f);
+                audioSource.PlayOneShot(vozActual);
+            }
             yield return new WaitForSeconds(typingSpeed);
         }
 
@@ -201,6 +216,26 @@ public class DialogueManager : MonoBehaviour
                 }
                 break;
         }
+    }
+
+    void SetVoiceBySpeaker(string speaker)
+    {
+        switch (speaker)
+        {
+            case "Padre":
+                vozActual = vozPadre;
+                break;
+
+            case "Psiquiatra":
+                vozActual = vozPsiquiatra;
+                break;
+            default:
+                vozActual = null;
+                break;
+        }
+
+        Debug.Log("Speaker: " + speaker);
+        Debug.Log("Voz asignada: " + (vozActual != null ? vozActual.name : "NULL"));
     }
 
     void Update()
