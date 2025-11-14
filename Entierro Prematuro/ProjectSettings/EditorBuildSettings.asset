@@ -92,6 +92,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sesiones/3 Third Sesion/Positive/Positive Third Sesion 3.unity
     guid: e318dd1a21d313043b5cd8586f66ddd3
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/4 Four Sesion/Positive/Charge Positive Four.unity
+    guid: 391bcbc806dfb7e40a5714a30819447b
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/4 Four Sesion/Positive/Positive Four Sesion.unity
+    guid: c74ee2cdd9c4c5147ae1a5260b8d9643
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/4 Four Sesion/Positive/Positive Four Sesion 1.unity
+    guid: 81b6116b4e7fc1e469fbfca56ba90f98
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/4 Four Sesion/Positive/Positive Four Sesion 2.unity
+    guid: 63dc6b5c1812adf4b8f19b590c8b828a
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/4 Four Sesion/Positive/Positive Four Sesion 3.unity
+    guid: b18246dee1a00ef468e8c3416febd3e3
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/4 Four Sesion/Positive/Positive Four Sesion 4.unity
+    guid: 64d453dc9cfc29f4fa01ad3f6c64c5aa
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/4 Four Sesion/Positive/Positive Four Sesion 5.unity
+    guid: 7b3310a26f9504941ade61569036bfdd
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/4 Four Sesion/Positive/Positive Four Sesion 6.unity
+    guid: 90fb8b239a1c96a49a196768f80d4d27
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
