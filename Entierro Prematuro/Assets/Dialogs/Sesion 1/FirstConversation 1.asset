@@ -41,7 +41,7 @@ MonoBehaviour:
   - speaker: Pensamiento
     text: Sus manos sostienen una carpeta repleta de papeles, fotos y dibujos infantiles.
     isMirandoAbajo: 0
-    isMirandoCostado: 0
+    isMirandoCostado: 1
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
@@ -65,7 +65,7 @@ MonoBehaviour:
   - speaker: Pensamiento
     text: "No me mira a los ojos. Se deja caer en la silla frente a m\xED."
     isMirandoAbajo: 0
-    isMirandoCostado: 0
+    isMirandoCostado: 1
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
@@ -92,7 +92,7 @@ MonoBehaviour:
     isMirandoCostado: 0
     isMirandoDerecha: 0
     isAbajo: 0
-    isHablando1: 0
+    isHablando1: 1
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
@@ -117,7 +117,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -153,7 +153,7 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
@@ -178,7 +178,7 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
@@ -203,7 +203,7 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
@@ -215,7 +215,7 @@ MonoBehaviour:
     isMirandoCostado: 0
     isMirandoDerecha: 0
     isAbajo: 0
-    isHablando1: 0
+    isHablando1: 1
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
@@ -247,7 +247,7 @@ MonoBehaviour:
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
+    isHablandoEnojado: 1
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
@@ -262,7 +262,7 @@ MonoBehaviour:
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
-    isAbajo: 0
+    isAbajo: 1
     isHablando1: 0
     isHablando2: 0
     isMedioFeliz: 0
@@ -287,7 +287,7 @@ MonoBehaviour:
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
-    isAbajo: 0
+    isAbajo: 1
     isHablando1: 0
     isHablando2: 0
     isMedioFeliz: 0
@@ -311,7 +311,7 @@ MonoBehaviour:
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
-    isAbajo: 0
+    isAbajo: 1
     isHablando1: 0
     isHablando2: 0
     isMedioFeliz: 0
@@ -331,3 +331,4 @@ MonoBehaviour:
     isExtremoQCY: 0
     isExtremoHorror: 0
   mostrarOpcionesAlFinal: 1
+  esUltimaSesion: 0
