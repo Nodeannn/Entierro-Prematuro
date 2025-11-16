@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8184acd36e713634eaad195574b0882b, type: 3}
+  m_Name: Preg1CSes5Pos
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: Psiquiatra
+    text: "\xBFLe podr\xEDa pedir que me cuente mas sobre su nuevo prop\xF3sito?
+      \xBFA que se refiere con eso?"
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: "Antes, viv\xEDa solo por y para mantener a mi hija a salvo..."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: "Hoy en d\xEDa, sigo viviendo para ella, pero, dejando que ella viva, explore,
+      se cuide sola..."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: "Entiendo que yo no voy a poder estar siempre ah\xED... Por mas que me
+      encantar\xEDa estar acompa\xF1ando cada paso que ella d\xE9..."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: "Pero bueno... Se esta haciendo grande... Ya casi 15 a\xF1os."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  mostrarOpcionesAlFinal: 0
+  esUltimaSesion: 0

@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8184acd36e713634eaad195574b0882b, type: 3}
+  m_Name: FiveConversationNeu 2
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: Pensamiento
+    text: "Realmente \xE9l me disparo... Mi cuerpo no responde... Se esta poniendo
+      todo negro..."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Pensamiento
+    text: "\xBFSer\xE1 este mi fin? \xBFQu\xE9 est\xE1 haciendo? \xBFSe est\xE1 poniendo
+      la pistola en la cabeza el ahora?"
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Pensamiento
+    text: "\xA1Por dios! \xA1Se acaba de matar! \xA1Acaba de suicidarse!"
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Pensamiento
+    text: "Al final... todo estaba escrito para terminar as\xED... Nunca fui lo suficientemente
+      capaz como para ser una buena psiquiatra..."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Pensamiento
+    text: No salve a mi anterior paciente... y este... me termino disparando. Cada
+      vez todo se pone mas oscuro...
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Pensamiento
+    text: se siente mas frio aunque sea una tarde de un calor infernal...
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Pensamiento
+    text: "Parece que todo termina ac\xE1... Esto... se siente..."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Pensamiento
+    text: Bien...
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  mostrarOpcionesAlFinal: 0
+  esUltimaSesion: 0

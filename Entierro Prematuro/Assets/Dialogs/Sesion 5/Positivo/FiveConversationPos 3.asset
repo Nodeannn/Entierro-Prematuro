@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8184acd36e713634eaad195574b0882b, type: 3}
+  m_Name: FiveConversationPos 3
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: Psiquiatra
+    text: Bueno... Creo que le puedo dar una buena noticia.
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: "\xBFQu\xE9 noticia tiene para mi?"
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Psiquiatra
+    text: "Por todos los avances que usted me present\xF3 en las ultimas sesiones,
+      y en especial, esta \xFAltima. Puedo decirle que usted ya se encuentra sano."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Psiquiatra
+    text: Ya puede marcharse sabiendo que tiene el alta. Disfrute de su hija y de
+      la vida, que hay muchas cosas por hacer.
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: "Muchas gracias... Usted me salvo a mi, a mi hija y seguramente a mucha
+      gente que podr\xEDa haberse visto afectada por todo este caso."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: Realmente gracias...
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  mostrarOpcionesAlFinal: 0
+  esUltimaSesion: 0

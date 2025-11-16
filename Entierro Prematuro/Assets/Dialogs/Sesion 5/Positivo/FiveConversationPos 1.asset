@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8184acd36e713634eaad195574b0882b, type: 3}
+  m_Name: FiveConversationPos 1
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: Pensamiento
+    text: "Se le ve con buena cara, parece que las cosas en su casa est\xE1n yendo
+      para mejor. Voy a dejar que el inicie esta charla."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: "\xBFAcaso no le parece que \xFAltimamente el mundo es mas colorido?"
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: "Quiz\xE1 es solo una ilusi\xF3n m\xEDa pero... los p\xE1jaros cantan m\xE1s,
+      los chicos se r\xEDen, la gente esta de mejor humor..."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Psiquiatra
+    text: "Puede ser... Generalmente las personas que est\xE1n felices reciben muchos
+      mas est\xEDmulos por parte de otras personas."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Psiquiatra
+    text: "Podr\xEDa preguntarle \xBFQu\xE9 lo tiene a usted tan contento?."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: "Nuestros avances... sinceramente creo que usted logr\xF3 sacarme de un
+      pozo oscuro en el que estaba metido."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: "Logr\xF3 mostrarme que en el mundo hay muchas cosas por hacer. Me dio
+      un nuevo prop\xF3sito."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Psiquiatra
+    text: "Realmente hubo muchos avances en este \xFAltimo tiempo."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Psiquiatra
+    text: "Su forma de ver a Malena cambi\xF3 por completo. Aunque hay algo que todav\xEDa
+      no me dice... Deber\xEDa averiguarlo."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  mostrarOpcionesAlFinal: 1
+  esUltimaSesion: 0

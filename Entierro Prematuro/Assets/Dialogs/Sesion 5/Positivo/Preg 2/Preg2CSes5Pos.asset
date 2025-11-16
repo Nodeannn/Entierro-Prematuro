@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8184acd36e713634eaad195574b0882b, type: 3}
+  m_Name: Preg2CSes5Pos
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: Psiquiatra
+    text: "Siento mucha paz en usted. \xBFCree que tambi\xE9n tiene que ver con Roc\xEDo?"
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: "S\xED. Me di cuenta de que ella ya no est\xE1. Y tambi\xE9n entend\xED
+      que lo que pas\xF3 fue un accidente."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: "Pagu\xE9 el precio m\xE1s alto, su vida... pero ya no me culpo como antes."
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Psiquiatra
+    text: "\xBFCree que Roc\xEDo estar\xEDa orgullosa de c\xF3mo avanz\xF3?"
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  - speaker: Padre
+    text: Si. Aunque, esto ya no es sobre ella. Ella esta descansando... Creo que
+      mi gran paz es que por fin me deje de culpar a mi mismo de ese accidente. Me
+      siento libre...
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+  mostrarOpcionesAlFinal: 0
+  esUltimaSesion: 0
