@@ -512,6 +512,10 @@ PrefabInstance:
       value: Charge Neutral Third
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
+      propertyPath: proxEscena
+      value: Charge Third
+      objectReference: {fileID: 0}
+    - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: punMaxMala
       value: 3
       objectReference: {fileID: 0}
