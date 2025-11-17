@@ -15,6 +15,8 @@ public class DialogueManager : MonoBehaviour
     [SerializeField] private GameObject speakerText;
     [SerializeField] private GameObject speakerBox;
     [SerializeField] private FatherView characterView;
+    [SerializeField] private Pistola1 hand1View;
+    [SerializeField] private Pistola2 hand2View;
 
     [Header("Texto Config")]
     [SerializeField] private float typingSpeed = 0.03f;
@@ -98,6 +100,10 @@ public class DialogueManager : MonoBehaviour
 
         if (characterView != null)
             characterView.ApplyDialogueLineBools(line);
+        if (hand1View != null)
+            hand1View.ActualizarPistola(line);
+        if (hand2View != null)
+            hand2View.ActualizarPistola(line);
 
         dialogueText.text = "";
         typingCoroutine = StartCoroutine(TypeText(currentLine));

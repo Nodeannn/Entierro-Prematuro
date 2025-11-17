@@ -1,8 +1,7 @@
 using UnityEngine;
 using System.Collections;
-using UnityEditor.SceneManagement;
-using NUnit.Framework.Internal;
 using UnityEngine.SceneManagement;
+using NUnit.Framework.Internal;
 
 public class MidSesionManager : MonoBehaviour
 {

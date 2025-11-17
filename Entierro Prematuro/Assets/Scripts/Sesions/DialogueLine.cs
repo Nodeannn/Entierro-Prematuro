@@ -34,4 +34,8 @@ public class DialogueLine
     public bool isChicaColgada = false;
     public bool isChicaNeutro = false;
     public bool isAsustadoHablando = false;
+
+    public bool manosNada = true;
+    public bool manosElMismo = false;
+    public bool manosAPlayer = false;
 }

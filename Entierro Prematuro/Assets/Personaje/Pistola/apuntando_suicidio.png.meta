@@ -95,7 +95,51 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: apuntando_suicidio_0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 184
+        width: 513
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df1771173172f248a6a67138fd9de0e
+      internalID: -1891044660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apuntando_suicidio_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 127
+        width: 475
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d7e0c7fdb36a9478f6a8ab4038226c
+      internalID: -1604720594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -111,7 +155,9 @@ TextureImporter:
       name: _NormalMap
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      apuntando_suicidio_0: -1891044660
+      apuntando_suicidio_1: -1604720594
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

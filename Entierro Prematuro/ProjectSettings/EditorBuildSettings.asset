@@ -164,6 +164,54 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sesiones/4 Four Sesion/Bad/Bad Four Sesion 6.unity
     guid: ac2560bd73b31364f8756266fb01d567
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Positive/Charge Positive Five.unity
+    guid: 130794146292dc74bb9b195daf1ae48b
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Positive/Positive Five Sesion.unity
+    guid: 92df7bcddd798954ea8cfce67fdf7e8d
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Positive/Positive Five Sesion 1.unity
+    guid: 0fd263c6a5fe36c41979033119182ff6
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Positive/Positive Five Sesion 2.unity
+    guid: 196fa3e647997ed478b98bff17543c5b
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Positive/Positive Five Sesion 3.unity
+    guid: 28eccbfa676834047b2f0400f74f9709
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Positive/Positive Five Sesion 4.unity
+    guid: 6ed024d0fc75e2e419ff5309fe27d8d1
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Neutral/Charge Neutral Five.unity
+    guid: 528b8715c6108184b80522410ccea4f4
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Neutral/Neutral Five Sesion.unity
+    guid: b11746e7266e4854b9db5a8405ba31ab
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Neutral/Neutral Five Sesion 1.unity
+    guid: b7af935235a31d344b0522462bc851b5
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Neutral/Neutral Five Sesion 2.unity
+    guid: be84a9eae2fe7af47b9b7d306c0742e3
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Bad/Charge Bad Five.unity
+    guid: fb6723146dea77944923e08abffd9d98
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Bad/Bad Five Sesion.unity
+    guid: 71adb4ac9b0d0b64fb79d1ed4d70f823
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Bad/Bad Five Sesion 1.unity
+    guid: be4741b85e784cb48a550851af45e153
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Bad/Bad Five Sesion 2.unity
+    guid: faac62c01e0be544ea8ccbe675ab6c58
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Positive/Positive Credits.unity
+    guid: efd31aa3478948e44b9b8c4686236653
+  - enabled: 1
+    path: Assets/Scenes/Sesiones/5 Five Sesion/Negative Credits.unity
+    guid: b9ec5a92521133d4e9e6cd62b4558ee0
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
