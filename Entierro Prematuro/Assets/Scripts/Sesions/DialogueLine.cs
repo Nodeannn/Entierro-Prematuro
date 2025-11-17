@@ -38,4 +38,7 @@ public class DialogueLine
     public bool manosNada = true;
     public bool manosElMismo = false;
     public bool manosAPlayer = false;
+
+    public bool EfectoDisparo = false;
+    public bool EfectoMuerte = false;
 }

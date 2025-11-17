@@ -47,6 +47,8 @@ MonoBehaviour:
     manosNada: 0
     manosElMismo: 0
     manosAPlayer: 1
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
     text: "\xBFSer\xE1 este mi fin? \xBFQu\xE9 est\xE1 haciendo? \xBFSe est\xE1 poniendo
       la pistola en la cabeza el ahora?"
@@ -81,6 +83,8 @@ MonoBehaviour:
     manosNada: 0
     manosElMismo: 1
     manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
     text: "\xA1Por dios! \xA1Se acaba de matar! \xA1Acaba de suicidarse!"
     isMirandoAbajo: 0
@@ -114,6 +118,8 @@ MonoBehaviour:
     manosNada: 0
     manosElMismo: 1
     manosAPlayer: 0
+    EfectoDisparo: 1
+    EfectoMuerte: 0
   - speaker: Pensamiento
     text: "Al final... todo estaba escrito para terminar as\xED... Nunca fui lo suficientemente
       capaz como para ser una buena psiquiatra..."
@@ -148,6 +154,8 @@ MonoBehaviour:
     manosNada: 0
     manosElMismo: 1
     manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
     text: No salve a mi anterior paciente... y este... me termino disparando. Cada
       vez todo se pone mas oscuro...
@@ -182,6 +190,8 @@ MonoBehaviour:
     manosNada: 0
     manosElMismo: 0
     manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
     text: se siente mas frio aunque sea una tarde de un calor infernal...
     isMirandoAbajo: 0
@@ -215,6 +225,8 @@ MonoBehaviour:
     manosNada: 1
     manosElMismo: 0
     manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
     text: "Parece que todo termina ac\xE1... Esto... se siente..."
     isMirandoAbajo: 0
@@ -248,6 +260,8 @@ MonoBehaviour:
     manosNada: 1
     manosElMismo: 0
     manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
     text: Bien...
     isMirandoAbajo: 0
@@ -281,5 +295,7 @@ MonoBehaviour:
     manosNada: 1
     manosElMismo: 0
     manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 1
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0
