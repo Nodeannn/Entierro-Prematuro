@@ -416,8 +416,8 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
-    manosNada: 1
-    manosElMismo: 0
+    manosNada: 0
+    manosElMismo: 1
     manosAPlayer: 0
   - speaker: Psiquiatra
     text: "No voy a acercarme. Solo... entr\xE9guemela. No le voy a hacer da\xF1o,
@@ -485,8 +485,8 @@ MonoBehaviour:
     isChicaNeutro: 0
     isAsustadoHablando: 0
     manosNada: 0
-    manosElMismo: 0
-    manosAPlayer: 1
+    manosElMismo: 1
+    manosAPlayer: 0
   - speaker: Psiquiatra
     text: "Respire. Estoy ac\xE1."
     isMirandoAbajo: 0
