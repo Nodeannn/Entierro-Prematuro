@@ -21,7 +21,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -38,6 +38,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xBFTiene la piel de un animal como alfombra?"
     isMirandoAbajo: 0
@@ -62,6 +68,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Es falsa, claramente. Pero me hace sentir importante tenerla. A Malena
       nunca le gust\xF3. Dice que le da miedo."
@@ -70,7 +82,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -87,6 +99,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Pensamiento
     text: "Una respuesta com\xFAn. La imagen representa al padre ed\xEDpico y la
       autoridad, inferioridad u opresi\xF3n hacia ella."
@@ -112,5 +130,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   mostrarOpcionesAlFinal: 1
   esUltimaSesion: 0

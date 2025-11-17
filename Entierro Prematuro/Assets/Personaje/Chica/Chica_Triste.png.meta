@@ -95,7 +95,139 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Chica_Triste_0
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2
+        width: 660
+        height: 998
+      alignment: 9
+      pivot: {x: 0.41850457, y: 0.5063736}
+      border: {x: 0, y: 0, z: 0, w: 34}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9552af3ae8891564d808e980443f0a3f
+      internalID: 665594462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Triste_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 899
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899d3fedc91bb234e9a93602ebc2b14f
+      internalID: 1521538172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Triste_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 899
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e5768b5d22c284ebddd1c710250088
+      internalID: -578515500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Triste_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 904
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf2f0813fdb4b64bb8f523644427013
+      internalID: -1293911921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Triste_4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 903
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be8b425a1c253f448358f860863cd35
+      internalID: -440596562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Triste_5
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 904
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bc81c874882a1488bc2b528f84fca7
+      internalID: -1814540054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -111,7 +243,13 @@ TextureImporter:
       name: _NormalMap
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chica_Triste_0: 665594462
+      Chica_Triste_1: 1521538172
+      Chica_Triste_2: -578515500
+      Chica_Triste_3: -1293911921
+      Chica_Triste_4: -440596562
+      Chica_Triste_5: -1814540054
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

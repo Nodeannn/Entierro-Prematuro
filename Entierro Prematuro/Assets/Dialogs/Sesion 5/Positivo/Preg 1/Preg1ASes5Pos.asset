@@ -22,7 +22,7 @@ MonoBehaviour:
     isAbajo: 0
     isHablando1: 0
     isHablando2: 0
-    isMedioFeliz: 0
+    isMedioFeliz: 1
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
@@ -38,6 +38,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Si... creo que est\xE1 feliz. \xDAltimamente me esta agradeciendo todas
       las libertades que le estoy dando."
@@ -49,7 +55,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -63,6 +69,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Est\xE1 formando v\xEDnculos fuertes. Eso antes era imposible."
     isMirandoAbajo: 0
@@ -73,7 +85,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -87,5 +99,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

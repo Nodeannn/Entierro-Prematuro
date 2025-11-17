@@ -21,7 +21,7 @@ MonoBehaviour:
     isAbajo: 0
     isHablando1: 0
     isHablando2: 0
-    isMedioFeliz: 0
+    isMedioFeliz: 1
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
@@ -37,6 +37,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\xBFQu\xE9 noticia tiene para mi?"
     isMirandoAbajo: 0
@@ -47,7 +53,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -61,6 +67,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Por todos los avances que usted me present\xF3 en las ultimas sesiones,
       y en especial, esta \xFAltima. Puedo decirle que usted ya se encuentra sano."
@@ -71,7 +83,7 @@ MonoBehaviour:
     isHablando1: 0
     isHablando2: 0
     isMedioFeliz: 0
-    isConmovido: 0
+    isConmovido: 1
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
@@ -86,6 +98,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: Ya puede marcharse sabiendo que tiene el alta. Disfrute de su hija y de
       la vida, que hay muchas cosas por hacer.
@@ -111,6 +129,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 1
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Muchas gracias... Usted me salvo a mi, a mi hija y seguramente a mucha
       gente que podr\xEDa haberse visto afectada por todo este caso."
@@ -122,7 +146,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -136,6 +160,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: Realmente gracias...
     isMirandoAbajo: 0
@@ -145,7 +175,7 @@ MonoBehaviour:
     isHablando1: 0
     isHablando2: 0
     isMedioFeliz: 0
-    isConmovido: 0
+    isConmovido: 1
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
@@ -160,5 +190,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

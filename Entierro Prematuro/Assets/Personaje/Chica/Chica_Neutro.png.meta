@@ -95,7 +95,139 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Chica_Neutro_0
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2
+        width: 473
+        height: 904
+      alignment: 9
+      pivot: {x: 0.46731716, y: 0.49429956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26056a739ddfe641a72ff1ad231e58b
+      internalID: -1244715263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Neutro_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 899
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2917470d5c14db047b4d3d4f23bd86fe
+      internalID: 353242870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Neutro_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 899
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e639008127e5214e9e339f6d92479ce
+      internalID: -396679269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Neutro_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 904
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8ba22b918dafd479f1b3f2ae9b11e3
+      internalID: -1230764943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Neutro_4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 903
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bc134ec7959f04eaf4d6a7d0fb83a3
+      internalID: 175441550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Neutro_5
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 904
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be618180921e5654a8dbe0da284cbf1a
+      internalID: 784691382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -111,7 +243,13 @@ TextureImporter:
       name: _NormalMap
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chica_Neutro_0: -1244715263
+      Chica_Neutro_1: 353242870
+      Chica_Neutro_2: -396679269
+      Chica_Neutro_3: -1230764943
+      Chica_Neutro_4: 175441550
+      Chica_Neutro_5: 784691382
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

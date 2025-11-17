@@ -37,6 +37,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "\xBFUn sue\xF1o? Quiz\xE1s... s\xED. Aunque, cuando veo a Rocio, huele
       igual que antes. Los sue\xF1os no se huelen."
@@ -45,7 +50,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -62,6 +67,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Psiquiatra
     text: "A veces, los sue\xF1os son solo el eco de lo que no pudimos despedir."
     isMirandoAbajo: 0
@@ -86,6 +96,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "Entonces, sigo despidi\xE9ndome mal."
     isMirandoAbajo: 0
@@ -100,7 +115,7 @@ MonoBehaviour:
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
+    isHablandoEnojado: 1
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
@@ -110,5 +125,10 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

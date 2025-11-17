@@ -27,7 +27,7 @@ MonoBehaviour:
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
-    isHablandoMuyEnojado: 0
+    isHablandoMuyEnojado: 1
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
@@ -38,6 +38,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "No se\xF1or, esto no es as\xED. Por favor conserve la calma y d\xE9jeme
       explicarle toda la situaci\xF3n."
@@ -51,7 +57,7 @@ MonoBehaviour:
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
-    isMasEnojado: 0
+    isMasEnojado: 1
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
@@ -63,6 +69,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\xA1Yo a vos no te creo nada! \xBFTe crees que soy tan tonto como para
       darme cuenta que reci\xE9n ahora vos me ven\xEDs a decir esa cosa de mi hija?"
@@ -77,7 +89,7 @@ MonoBehaviour:
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
-    isHablandoMuyEnojado: 0
+    isHablandoMuyEnojado: 1
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
@@ -88,6 +100,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Se\xF1or, no es algo que supe desde antes. Me di cuenta hoy, gracias a
       que usted mismo comenz\xF3 a confundirse."
@@ -101,7 +119,7 @@ MonoBehaviour:
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
-    isMasEnojado: 0
+    isMasEnojado: 1
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
@@ -113,6 +131,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "No es Malena la que ten\xEDa catalepsia, es Roc\xEDo. Y lo que vio usted
       anoche no fue un episodio."
@@ -135,9 +159,15 @@ MonoBehaviour:
     isPreocupado: 0
     isAsustarse: 0
     isAsustado: 0
-    isExtremoEnojado: 0
+    isExtremoEnojado: 1
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\xA1Cerr\xE1 la boca! \xA1No! Quer\xE9s hacerme creer que yo mat\xE9 a
       mi propia hija."
@@ -152,7 +182,7 @@ MonoBehaviour:
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
-    isHablandoMuyEnojado: 0
+    isHablandoMuyEnojado: 1
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
@@ -163,6 +193,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Lo que ocurri\xF3 no fue su culpa. Pero necesito que entienda lo que pas\xF3
       para poder ayudarlo."
@@ -176,7 +212,7 @@ MonoBehaviour:
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
-    isMasEnojado: 0
+    isMasEnojado: 1
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
@@ -188,6 +224,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\xBFY porque no me lo dijiste cuando empez\xF3 la sesi\xF3n? \xA1Es obvio
       que es porque estabas esperando que te cuente algo para incriminarme!"
@@ -202,7 +244,7 @@ MonoBehaviour:
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
-    isHablandoMuyEnojado: 0
+    isHablandoMuyEnojado: 1
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
@@ -213,6 +255,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\xA1Vos solo quer\xE9s hacer que yo me mate!"
     isMirandoAbajo: 0
@@ -226,7 +274,7 @@ MonoBehaviour:
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
-    isHablandoMuyEnojado: 0
+    isHablandoMuyEnojado: 1
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
@@ -237,6 +285,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xA1Baje eso por favor! \xA1No tiene porque hacer esto! \xA1Usted tiene
       una vida por delante! \xA1Puede recuperarse!"
@@ -250,7 +304,7 @@ MonoBehaviour:
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
-    isMasEnojado: 0
+    isMasEnojado: 1
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
@@ -262,6 +316,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\xA1Ya no te creo nada a vos! \xA1Yo voy a decidir lo que yo quiera y
       eso es matarme!"
@@ -276,7 +336,7 @@ MonoBehaviour:
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
-    isHablandoMuyEnojado: 0
+    isHablandoMuyEnojado: 1
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
@@ -287,6 +347,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xA1Se\xF1or, por favor, no es su culpa nada de lo que sucedi\xF3!"
     isMirandoAbajo: 0
@@ -299,7 +365,7 @@ MonoBehaviour:
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
-    isMasEnojado: 0
+    isMasEnojado: 1
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
@@ -311,6 +377,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\xA1Claro! \xA1Tenes raz\xF3n! \xA1Vos, sos la culpable de todo esto!"
     isMirandoAbajo: 0
@@ -335,6 +407,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xBFQu\xE9 hace Se\xF1or?"
     isMirandoAbajo: 0
@@ -347,7 +425,7 @@ MonoBehaviour:
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
-    isMasEnojado: 0
+    isMasEnojado: 1
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
@@ -359,6 +437,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\xA1Voy a matar a la culpable de todas mis desgracias! \xA1Me ten\xE9s
       harto. Pastillas que no me sirven, pruebas est\xFApidas para ver si me conoces
@@ -374,7 +458,7 @@ MonoBehaviour:
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
-    isHablandoMuyEnojado: 0
+    isHablandoMuyEnojado: 1
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
@@ -385,6 +469,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Todas tonter\xEDas que me quer\xEDas vender mientras mi pobre hija la
       pasaba mal."
@@ -399,7 +489,7 @@ MonoBehaviour:
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
-    isHablandoMuyEnojado: 0
+    isHablandoMuyEnojado: 1
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
@@ -410,6 +500,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xA1Se\xF1or, no!"
     isMirandoAbajo: 0
@@ -422,7 +518,7 @@ MonoBehaviour:
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
-    isMasEnojado: 0
+    isMasEnojado: 1
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
@@ -434,5 +530,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

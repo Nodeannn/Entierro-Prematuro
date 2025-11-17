@@ -95,7 +95,29 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Chica_Colgada_0
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2
+        width: 473
+        height: 998
+      alignment: 9
+      pivot: {x: 0.48910567, y: 0.38640708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8861b3464ff9640a9ebcca78867335
+      internalID: -1632889005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -111,7 +133,8 @@ TextureImporter:
       name: _NormalMap
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chica_Colgada_0: -1632889005
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

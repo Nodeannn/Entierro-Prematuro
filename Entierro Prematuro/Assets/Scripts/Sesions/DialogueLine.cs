@@ -28,4 +28,10 @@ public class DialogueLine
     public bool isExtremoEnojado = false;
     public bool isExtremoQCY = false;
     public bool isExtremoHorror = false;
+    public bool isMuyFeliz = false;
+    public bool isChicaInterposicion = false;
+    public bool isChicaFeliz = false;
+    public bool isChicaColgada = false;
+    public bool isChicaNeutro = false;
+    public bool isAsustadoHablando = false;
 }

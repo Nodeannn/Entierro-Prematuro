@@ -38,6 +38,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Buenas tardes... \xBFC\xF3mo se siente hoy?"
     isMirandoAbajo: 0
@@ -62,6 +68,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: Buenas tardes.
     isMirandoAbajo: 0
@@ -69,7 +81,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -86,6 +98,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Pensamiento
     text: Muy cortante... parece nervioso. Algo no anda bien.
     isMirandoAbajo: 0
@@ -110,6 +128,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Buenas tardes \xBFC\xF3mo se encuentra? Como estuvo su semana?"
     isMirandoAbajo: 0
@@ -128,12 +152,18 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Doctora... no se que hacer. Desde anoche que no duermo. Malena... tuvo
       un episodio. Uno fuerte. De esos que le daban hace a\xF1os."
@@ -159,6 +189,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Psiquiatra
     text: "Tranquilo. Cu\xE9nteme exactamente qu\xE9 ocurri\xF3."
     isMirandoAbajo: 0
@@ -179,10 +215,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Fue despu\xE9s de... de una pelea. Ella insisti\xF3 con la fiesta. Un
       cumplea\xF1os de quince. Yo no quer\xEDa dejarla ir."
@@ -208,6 +250,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Padre
     text: "La m\xFAsica fuerte, los desconocidos... \xBFy si le daba un episodio
       ah\xED? \xBF y si la gente no sab\xEDa c\xF3mo reaccionar?"
@@ -233,6 +281,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Psiquiatra
     text: "\xBFUna fiesta de quince? \xBFDe ella?"
     isMirandoAbajo: 0
@@ -253,10 +307,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "No, no... no era su fiesta. Era la de una compa\xF1era. Pero usted sabe
       c\xF3mo son esas fiestas... las luces, la noche, los gritos, los nervios..."
@@ -282,6 +342,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Psiquiatra
     text: "\xBFY qu\xE9 pas\xF3 despu\xE9s de la discusi\xF3n?"
     isMirandoAbajo: 0
@@ -302,10 +368,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Ella se qued\xF3 dura. Inm\xF3vil. Del mismo modo que... que otras veces."
     isMirandoAbajo: 0
@@ -330,6 +402,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Yo pens\xE9 que era otro episodio, uno de esos que siempre tuvo. Como
       cuando Roc- Como cuando le pasaba. Como siempre le paso."
@@ -355,6 +433,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Pensamiento
     text: "Iba a decir Roc\xEDo. Pero \xE9l afirma que la que tiene catalepsia es
       Malena. \xBFConfusi\xF3n? \xBFMemoria selectiva? \xBFO algo m\xE1s profundo?"
@@ -376,10 +460,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xBFPuede describirme exactamente c\xF3mo estaba?"
     isMirandoAbajo: 0
@@ -400,10 +490,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "No respond\xEDa. La mov\xED para acomodarla. Pero cuando la levant\xE9...
       la cabeza golpe\xF3 un poco la mesa."
@@ -429,6 +525,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Psiquiatra
     text: "\xBFY luego?"
     isMirandoAbajo: 0
@@ -449,10 +551,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "No cambiaba nada. No reaccionaba. Pero pens\xE9 que era uno de esos episodios
       m\xE1s largos."
@@ -478,6 +586,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Padre
     text: "Tuvo algunos as\xED cuando era chica. Bueno, cuando la otra era chica
       tambi\xE9n."
@@ -503,6 +617,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Padre
     text: "Digo... cuando eran... cuando eran m\xE1s peque\xF1as."
     isMirandoAbajo: 0
@@ -527,6 +647,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Psiquiatra
     text: "\xBFSu hija nunca sufri\xF3 alg\xFAn golpe o lastimadura al desmayarse?"
     isMirandoAbajo: 0
@@ -547,10 +673,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "No. Pero esta vez fue distinto. La discusi\xF3n la alter\xF3. Y cuando
       se puso r\xEDgida..."
@@ -576,6 +708,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Padre
     text: "yo solo quer\xEDa que volviera. No quer\xEDa que... No quer\xEDa perderla
       tambi\xE9n."
@@ -601,6 +739,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Psiquiatra
     text: "\"Tambi\xE9n\"... \xBFse refiere a su hija mayor?"
     isMirandoAbajo: 0
@@ -617,7 +761,7 @@ MonoBehaviour:
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
-    isLlorando: 0
+    isLlorando: 1
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
@@ -625,6 +769,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: Si...
     isMirandoAbajo: 0
@@ -642,13 +792,19 @@ MonoBehaviour:
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
-    isTriste: 0
+    isTriste: 1
     isPreocupado: 0
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xBFPuede contarme bien c\xF3mo fue el accidente de Roc\xEDo?"
     isMirandoAbajo: 0
@@ -673,6 +829,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\xEDbamos en el auto. Llov\xEDa. Ella tuvo un episodio. Se qued\xF3 r\xEDgida.
       No reaccionaba."
@@ -691,13 +853,19 @@ MonoBehaviour:
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
-    isTriste: 0
+    isTriste: 1
     isPreocupado: 0
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Yo mir\xE9 para ayudarla y perd\xED el control del veh\xEDculo."
     isMirandoAbajo: 0
@@ -715,13 +883,19 @@ MonoBehaviour:
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
-    isTriste: 0
+    isTriste: 1
     isPreocupado: 0
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Espere, \xBFRoc\xEDo tuvo un episodio? Usted nunca dijo que ella ten\xEDa
       catalepsia."
@@ -747,6 +921,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "No.. pero... No s\xE9, a veces siento que s\xED. Que era igual. Que se
       quedaba quieta como Malena."
@@ -772,6 +952,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Pensamiento
     text: "No encaja. Cuanto m\xE1s fuerza hace por sostener su versi\xF3n, m\xE1s
       se enreda."
@@ -797,6 +983,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Pensamiento
     text: "Est\xE1 defendiendo un recuerdo falso, o uno que no entiende. Pero la
       verdad est\xE1 ah\xED."
@@ -822,6 +1014,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Volvamos a lo de anoche. \xBFQu\xE9 hizo despu\xE9s de que golpeara su
       cabeza?"
@@ -847,6 +1045,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "La llev\xE9 a su cama. La acomod\xE9. Me qued\xE9 mir\xE1ndola. Horas.
       Sabiendo que si me dorm\xEDa pod\xEDa no despertar."
@@ -872,6 +1076,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Psiquiatra
     text: "\xBFRespiraba?"
     isMirandoAbajo: 0
@@ -891,11 +1101,17 @@ MonoBehaviour:
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
-    isAsustarse: 0
+    isAsustarse: 1
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Muy despacio. O... tal vez no. No s\xE9. A veces pasa. Usted sabe."
     isMirandoAbajo: 0
@@ -920,6 +1136,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Psiquiatra
     text: "Los episodios catal\xE9pticos siempre involucran respiraci\xF3n m\xEDnima,
       pero nunca ausencia total."
@@ -945,6 +1167,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: Bueno, esta vez fue diferente.
     isMirandoAbajo: 0
@@ -969,6 +1197,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Pensamiento
     text: "Cada vez que lo confronto, ajusta su historia. No recuerda los s\xEDntomas
       reales, o qu\xE9 hija os ten\xEDa."
@@ -994,6 +1228,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Pensamiento
     text: "No sabe cu\xE1l muri\xF3. Si sus recuerdos est\xE1n invertidos... entonces
       la catalepsia no era de Malena."
@@ -1019,6 +1259,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Se\xF1or... \xBFest\xE1 seguro de que Malena tiene catalepsia?"
     isMirandoAbajo: 0
@@ -1043,6 +1289,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\u2026Por supuesto."
     isMirandoAbajo: 0
@@ -1067,6 +1319,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Pero usted mencion\xF3 a Roc\xEDo varias veces al describir los episodios.
       Y los detalles coinciden con lo que me dijo de la hija mayor."
@@ -1088,10 +1346,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xBFEs posible que est\xE9 confundiendo cu\xE1l de las dos sufr\xEDa de
       estos episodios?"
@@ -1112,11 +1376,17 @@ MonoBehaviour:
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
-    isAsustarse: 0
+    isAsustarse: 1
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "No... no... no. No estoy confundido. Lo viv\xED yo. S\xE9 lo que vi."
     isMirandoAbajo: 0
@@ -1141,6 +1411,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Psiquiatra
     text: "\xBFY qu\xE9 vio anoche?"
     isMirandoAbajo: 0
@@ -1161,10 +1437,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "La vi en un episodio. Eso. Lo mismo de siempre. Se qued\xF3 inm\xF3vil.
       Igual que cuando Roc- \u2026igual que siempre."
@@ -1190,6 +1472,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Psiquiatra
     text: "Se\xF1or, cuando una persona entra en catalepsia, sigue con signos vitales
       m\xEDnimos."
@@ -1211,10 +1499,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Pero sigue. Si su hija no reaccion\xF3 en absoluto, si no respiraba..."
     isMirandoAbajo: 0
@@ -1235,10 +1529,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: No. No diga eso. Fue un episodio, Fue un episodio igual que siempre.
     isMirandoAbajo: 0
@@ -1263,6 +1563,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Psiquiatra
     text: "Lo \xFAnico que tiene sentido es que Roc\xEDo haya sido su hija con catalepsia,
       no Malena."
@@ -1284,10 +1590,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "No. Usted no entiende. Ella estaba r\xEDgida, Yo la mov\xED, la levant\xE9."
     isMirandoAbajo: 0
@@ -1312,6 +1624,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 1
   - speaker: Psiquiatra
     text: "Y cuando la levant\xF3, golpe\xF3 su cabeza."
     isMirandoAbajo: 0
@@ -1327,7 +1645,7 @@ MonoBehaviour:
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
-    isMedioTriste: 0
+    isMedioTriste: 1
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
@@ -1336,6 +1654,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\u2026"
     isMirandoAbajo: 0
@@ -1360,7 +1684,13 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
-  - speaker: Padre
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
+  - speaker: Psiquiatra
     text: "Lo que usted vio no fue un episodio. Fue el cuerpo de Malena, se\xF1or."
     isMirandoAbajo: 0
     isMirandoCostado: 0
@@ -1376,7 +1706,7 @@ MonoBehaviour:
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
-    isLlorando: 0
+    isLlorando: 1
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
@@ -1384,5 +1714,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

@@ -16,7 +16,7 @@ MonoBehaviour:
   - speaker: Psiquiatra
     text: "\xBFPuede ser que no me est\xE9 contando algo importante?"
     isMirandoAbajo: 0
-    isMirandoCostado: 0
+    isMirandoCostado: 1
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
@@ -37,13 +37,19 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\xBFEn qu\xE9 sentido? \xBFHabla de mis hijas?"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
     isAbajo: 0
-    isHablando1: 0
+    isHablando1: 1
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
@@ -61,6 +67,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "No dije eso. \xBFPor qu\xE9 pens\xF3 en ellas?"
     isMirandoAbajo: 0
@@ -85,6 +97,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Yo... yo no s\xE9 de qu\xE9 habla. Le cont\xE9 todo."
     isMirandoAbajo: 0
@@ -99,7 +117,7 @@ MonoBehaviour:
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
+    isHablandoEnojado: 1
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
@@ -109,6 +127,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Pensamiento
     text: Se lo ve tenso. Busca un lugar en donde esconderse.
     isMirandoAbajo: 0
@@ -120,7 +144,7 @@ MonoBehaviour:
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
-    isEnojado: 0
+    isEnojado: 1
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
@@ -133,6 +157,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Tranquil\xEDcese. Nadie le est\xE1 acusando de nada. Le pregunt\xE9 si
       no me estaba contando algo. Respire y comencemos de nuevo."
@@ -145,7 +175,7 @@ MonoBehaviour:
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
-    isEnojado: 0
+    isEnojado: 1
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
@@ -158,31 +188,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
-  - speaker: Psiquiatra
-    text: "Tranquil\xEDcese. Nadie le est\xE1 acusando de nada. Le pregunt\xE9 si
-      no me estaba contando algo. Respire y comencemos de nuevo."
-    isMirandoAbajo: 0
-    isMirandoCostado: 0
-    isMirandoDerecha: 0
-    isAbajo: 0
-    isHablando1: 0
-    isHablando2: 0
-    isMedioFeliz: 0
-    isConmovido: 0
-    isFeliz: 0
-    isEnojado: 0
-    isMasEnojado: 0
-    isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
-    isMedioTriste: 0
-    isLlorando: 0
-    isTriste: 0
-    isPreocupado: 0
-    isAsustarse: 0
-    isAsustado: 0
-    isExtremoEnojado: 0
-    isExtremoQCY: 0
-    isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "No, no, no. Usted no entiende. Ellas est\xE1n. Existen. Yo lo s\xE9. Me
       tengo que ir, doctora. Nos vemos la pr\xF3xima semana."
@@ -191,7 +202,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -208,5 +219,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

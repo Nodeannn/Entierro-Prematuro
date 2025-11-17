@@ -37,6 +37,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "Cada vez que algo cambia, siento que la borro un poco m\xE1s. Que la pierdo."
     isMirandoAbajo: 0
@@ -44,7 +49,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -61,6 +66,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Psiquiatra
     text: "Quiz\xE1s lo que teme no es perderla a ella, sino perder su lugar como
       padre."
@@ -86,6 +96,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "Eso suena a culpa. \xBFEst\xE1 diciendo que es m\xED culpa?"
     isMirandoAbajo: 0
@@ -100,7 +115,7 @@ MonoBehaviour:
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
+    isHablandoEnojado: 1
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
@@ -110,6 +125,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Psiquiatra
     text: No, yo-
     isMirandoAbajo: 0
@@ -122,7 +142,7 @@ MonoBehaviour:
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
-    isMasEnojado: 0
+    isMasEnojado: 1
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
@@ -134,6 +154,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "No quiero hablar m\xE1s de esto."
     isMirandoAbajo: 0
@@ -148,7 +173,7 @@ MonoBehaviour:
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
+    isHablandoEnojado: 1
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
@@ -158,5 +183,10 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

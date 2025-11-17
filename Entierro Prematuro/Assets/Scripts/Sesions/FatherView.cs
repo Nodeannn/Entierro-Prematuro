@@ -28,15 +28,28 @@ public class FatherView : MonoBehaviour
     public string isExtremoEnojado = "isExtremoEnojado";
     public string isExtremoQCY = "isExtremoQCY";
     public string isExtremoHorror = "isExtremoHorror";
+    public string isMuyFeliz = "isMuyFeliz";
+    public string isChicaInterposicion = "Chica_Interposicion";
+    public string isChicaFeliz = "Chica_Feliz";
+    public string isChicaColgada = "Chica_Colgada";
+    public string isChicaNeutro = "Chica_neutro";
+    public string isAsustadoHablando = "Asustado_Hablando";
 
     public void Awake()
     {
         animator = GetComponent<Animator>();
+        if (animator == null)
+            Debug.LogError("Animator no encontrado en FatherView!");
 
     }
 
     public void ApplyDialogueLineBools(DialogueLine line)
     {
+
+        ResetAllBools();
+        Debug.Log("Aplicando línea: " + line.text);
+
+
         animator.SetBool(isMirandoAbajo, line.isMirandoAbajo);
         animator.SetBool(isMirandoCostado, line.isMirandoCostado);
         animator.SetBool(isMirandoDerecha, line.isMirandoDerecha);
@@ -59,5 +72,45 @@ public class FatherView : MonoBehaviour
         animator.SetBool(isExtremoEnojado, line.isExtremoEnojado);
         animator.SetBool(isExtremoQCY, line.isExtremoQCY);
         animator.SetBool(isExtremoHorror, line.isExtremoHorror);
+        animator.SetBool(isMuyFeliz, line.isMuyFeliz);
+        animator.SetBool(isChicaInterposicion, line.isChicaInterposicion); 
+        animator.SetBool(isChicaFeliz, line.isChicaFeliz);
+        animator.SetBool(isChicaColgada, line.isChicaColgada);
+        animator.SetBool(isChicaNeutro, line.isChicaNeutro);
+        animator.SetBool(isAsustadoHablando, line.isAsustadoHablando);
     }
+
+    private void ResetAllBools()
+    {
+        animator.SetBool(isMirandoAbajo, false);
+        animator.SetBool(isMirandoCostado, false);
+        animator.SetBool(isMirandoDerecha, false);
+        animator.SetBool(isAbajo, false);
+        animator.SetBool(isHablando1, false);
+        animator.SetBool(isHablando2, false);
+        animator.SetBool(isMedioFeliz, false);
+        animator.SetBool(isConmovido, false);
+        animator.SetBool(isFeliz, false);
+        animator.SetBool(isEnojado, false);
+        animator.SetBool(isMasEnojado, false);
+        animator.SetBool(isHablandoMuyEnojado, false);
+        animator.SetBool(isHablandoEnojado, false);
+        animator.SetBool(isMedioTriste, false);
+        animator.SetBool(isLlorando, false);
+        animator.SetBool(isTriste, false);
+        animator.SetBool(isPreocupado, false);
+        animator.SetBool(isAsustarse, false);
+        animator.SetBool(isAsustado, false);
+        animator.SetBool(isExtremoEnojado, false);
+        animator.SetBool(isExtremoQCY, false);
+        animator.SetBool(isExtremoHorror, false);
+        animator.SetBool(isMuyFeliz, false);
+        animator.SetBool(isChicaInterposicion, false);
+        animator.SetBool(isChicaFeliz, false);
+        animator.SetBool(isChicaColgada, false);
+        animator.SetBool(isChicaNeutro, false);
+        animator.SetBool(isAsustadoHablando, false);
+    }
+
+
 }

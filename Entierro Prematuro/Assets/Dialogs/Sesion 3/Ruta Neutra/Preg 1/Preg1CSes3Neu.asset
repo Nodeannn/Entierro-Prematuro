@@ -37,6 +37,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "La mayor, Rocio, siempre me ped\xEDa 5 minutos m\xE1s. O me los ped\xEDa.
       Deje, ya ni s\xE9 de quien le hablo."
@@ -45,7 +50,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -62,10 +67,15 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Psiquiatra
     text: "Es normal la confusi\xF3n. A veces, cuando el recuerdo duele, la mente
       puede mezclar las voces; las caras."
-    isMirandoAbajo: 0
+    isMirandoAbajo: 1
     isMirandoCostado: 0
     isMirandoDerecha: 0
     isAbajo: 0
@@ -87,12 +97,17 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Psiquiatra
     text: "Lo importante es que pueda reconocerlo. Eso significa que algo en usted
       todav\xEDa est\xE1 tratando de acordarse."
     isMirandoAbajo: 0
     isMirandoCostado: 0
-    isMirandoDerecha: 0
+    isMirandoDerecha: 1
     isAbajo: 0
     isHablando1: 0
     isHablando2: 0
@@ -112,6 +127,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "Entiendo, s\xED. Pero eso no cambia nada."
     isMirandoAbajo: 0
@@ -119,7 +139,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -136,6 +156,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: "Se aferra a esa confusi\xF3n como si fuera lo \xFAnico que le queda. Y
       quiz\xE1s lo sea."
@@ -161,5 +186,10 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

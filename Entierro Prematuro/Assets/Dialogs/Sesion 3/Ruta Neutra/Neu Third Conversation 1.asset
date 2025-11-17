@@ -37,10 +37,15 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: El mismo medicamento, la misma calma, previo a que todo se derrumbe.
     isMirandoAbajo: 0
-    isMirandoCostado: 0
+    isMirandoCostado: 1
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
@@ -61,13 +66,18 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: No puedo evitar pensar en ella... y en su lugar, ahora ocupado.
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
     isAbajo: 0
-    isHablando1: 0
+    isHablando1: 1
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
@@ -85,13 +95,18 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "\xBFEst\xE1 todo bien? Se ve p\xE1lida. \xBFSe acab\xF3 la sesi\xF3n?"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
     isAbajo: 0
-    isHablando1: 0
+    isHablando1: 1
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
@@ -109,6 +124,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Psiquiatra
     text: "\xA1No! Disc\xFAlpeme, solo me distraje en mis pensamientos por un momento.
       Por favor, siga cont\xE1ndome."
@@ -121,7 +141,7 @@ MonoBehaviour:
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
-    isEnojado: 0
+    isEnojado: 1
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
@@ -134,6 +154,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "Hoy me acord\xE9 de cuando fuimos al lago. Era una tarde con mucho viento,
       como hoy."
@@ -142,7 +167,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -159,6 +184,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: Ahora todo se mezcla; el viento; las risas; y, sus voces... tan parecidas.
     isMirandoAbajo: 0
@@ -166,7 +196,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -183,6 +213,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: "Se nota confundido. Tengo que ayudarlo a que no se sienta invalidado sentimentalmente,
       as\xED no tendr\xE1 miedo de contarme sus preocupaciones."
@@ -202,11 +237,16 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   mostrarOpcionesAlFinal: 1
   esUltimaSesion: 0

@@ -22,7 +22,7 @@ MonoBehaviour:
     isAbajo: 0
     isHablando1: 0
     isHablando2: 0
-    isMedioFeliz: 0
+    isMedioFeliz: 1
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
@@ -38,6 +38,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Antes, viv\xEDa solo por y para mantener a mi hija a salvo..."
     isMirandoAbajo: 0
@@ -48,7 +54,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -62,6 +68,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Hoy en d\xEDa, sigo viviendo para ella, pero, dejando que ella viva, explore,
       se cuide sola..."
@@ -73,7 +85,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -87,6 +99,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Entiendo que yo no voy a poder estar siempre ah\xED... Por mas que me
       encantar\xEDa estar acompa\xF1ando cada paso que ella d\xE9..."
@@ -98,7 +116,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -112,6 +130,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Pero bueno... Se esta haciendo grande... Ya casi 15 a\xF1os."
     isMirandoAbajo: 0
@@ -122,7 +146,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -136,5 +160,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

@@ -38,6 +38,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "Tal vez... Pero si no lo hago yo, \xBFqui\xE9n la cuida? Nadie entiende
       su condici\xF3n."
@@ -46,7 +51,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -63,6 +68,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "Quiz\xE1s no sirvo para otra cosa."
     isMirandoAbajo: 0
@@ -70,7 +80,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -87,6 +97,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Psiquiatra
     text: "No diga eso. Estoy segura de que a\xFAn puede-"
     isMirandoAbajo: 0
@@ -105,12 +120,17 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: No me diga lo que soy. No lo sabe.
     isMirandoAbajo: 0
@@ -125,7 +145,7 @@ MonoBehaviour:
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
+    isHablandoEnojado: 1
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
@@ -135,5 +155,10 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

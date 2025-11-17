@@ -37,13 +37,18 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: "De congelar la muerte con la fuerza de su mirada. Su vigilancia no es
       un acto m\xE9dico, es un ritual."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
-    isAbajo: 0
+    isAbajo: 1
     isHablando1: 0
     isHablando2: 0
     isMedioFeliz: 0
@@ -62,13 +67,18 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: "Una forma de mantener viva a la hija que ya no est\xE1. El tiempo se agota.
       Debo dejarle algo."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
-    isAbajo: 0
+    isAbajo: 1
     isHablando1: 0
     isHablando2: 0
     isMedioFeliz: 0
@@ -87,12 +97,17 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: Un cierre que no rompa la poca confianza que empieza a formarse.
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
-    isAbajo: 0
+    isAbajo: 1
     isHablando1: 0
     isHablando2: 0
     isMedioFeliz: 0
@@ -111,4 +126,10 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   mostrarOpcionesAlFinal: 1
+  esUltimaSesion: 0

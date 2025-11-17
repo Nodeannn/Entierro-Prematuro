@@ -16,7 +16,7 @@ MonoBehaviour:
   - speaker: Padre
     text: "\u2026"
     isMirandoAbajo: 0
-    isMirandoCostado: 0
+    isMirandoCostado: 1
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
@@ -37,6 +37,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xBFNo tiene nada para decir?"
     isMirandoAbajo: 0
@@ -61,6 +67,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: Otra mariposa.
     isMirandoAbajo: 0
@@ -68,7 +80,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -85,11 +97,17 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xBFOcurre algo?"
     isMirandoAbajo: 0
     isMirandoCostado: 0
-    isMirandoDerecha: 0
+    isMirandoDerecha: 1
     isAbajo: 0
     isHablando1: 0
     isHablando2: 0
@@ -109,6 +127,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Parece m\xE1s simple, a comparaci\xF3n de las otras. Las anteriores eran
       como manchas. Siento que est\xE1 buscando que le responda algo espec\xEDfico."
@@ -117,7 +141,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -134,6 +158,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Para nada. Como le coment\xE9, el paciente debe indicar lo que ve realmente
       para que pueda conocerlo mejor y crear un espacio m\xE1s personalizado para
@@ -160,6 +190,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Pensamiento
     text: "Era la mas sencilla de todas, pero esta reacci\xF3n... Se debi\xF3 haber
       sentido atrapado, o descubierto."
@@ -185,5 +221,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   mostrarOpcionesAlFinal: 1
   esUltimaSesion: 0

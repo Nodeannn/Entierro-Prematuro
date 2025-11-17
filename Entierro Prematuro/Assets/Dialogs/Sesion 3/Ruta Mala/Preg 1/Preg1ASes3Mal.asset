@@ -16,7 +16,7 @@ MonoBehaviour:
   - speaker: Psiquiatra
     text: "Quiz\xE1s esa sensaci\xF3n de ser observado venga del insomnio."
     isMirandoAbajo: 0
-    isMirandoCostado: 0
+    isMirandoCostado: 1
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
@@ -37,6 +37,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "\xBFEfecto del insomnio? \xBFEso cree? Siempre lo mismo. Todo son pastillas,
       estr\xE9s, cansancio, o \"efectos secundarios\"."
@@ -45,7 +50,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -62,13 +67,18 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: "Por su tono de voz puedo notar que est\xE1 molesto. Debo hacer algo para
       calmarlo."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
-    isAbajo: 0
+    isAbajo: 1
     isHablando1: 0
     isHablando2: 0
     isMedioFeliz: 0
@@ -87,12 +97,17 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Psiquiatra
     text: "No quise reducirlo a eso. Solo intento entender qu\xE9 siente cuando sucede."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
-    isAbajo: 0
+    isAbajo: 1
     isHablando1: 0
     isHablando2: 0
     isMedioFeliz: 0
@@ -111,6 +126,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: No creo que pueda entenderlo.
     isMirandoAbajo: 0
@@ -125,7 +145,7 @@ MonoBehaviour:
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
+    isHablandoEnojado: 1
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
@@ -135,6 +155,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: No me cree capaz de ayudarlo...
     isMirandoAbajo: 0
@@ -146,7 +171,7 @@ MonoBehaviour:
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
-    isEnojado: 0
+    isEnojado: 1
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
@@ -159,5 +184,10 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

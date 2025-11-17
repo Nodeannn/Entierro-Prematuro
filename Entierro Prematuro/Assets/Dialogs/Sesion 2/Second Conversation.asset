@@ -17,7 +17,7 @@ MonoBehaviour:
     text: "Hoy se ve desorientado, su pelo est\xE1 m\xE1s desordenado que de costumbre
       y sus ojeras..."
     isMirandoAbajo: 0
-    isMirandoCostado: 0
+    isMirandoCostado: 1
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
@@ -38,9 +38,14 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: claramente no pudo dormir bien.
-    isMirandoAbajo: 0
+    isMirandoAbajo: 1
     isMirandoCostado: 0
     isMirandoDerecha: 0
     isAbajo: 0
@@ -62,6 +67,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: Esta noche tuve una pesadilla, fue perturbadora.
     isMirandoAbajo: 0
@@ -69,7 +79,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -86,6 +96,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "Me despert\xE9 varias veces en la noche para revisar que mi hija siga
       respirando."
@@ -93,7 +108,7 @@ MonoBehaviour:
     isMirandoCostado: 0
     isMirandoDerecha: 0
     isAbajo: 0
-    isHablando1: 0
+    isHablando1: 1
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
@@ -111,6 +126,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: "Es bueno que haya tomado la iniciativa para hablar del sue\xF1o, lamentablemente
       su obsesi\xF3n sigue siendo igual de fuerte."
@@ -136,11 +156,16 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: "Lo mejor va a ser preguntarle sobre esto, tal vez as\xED pueda entenderlo
       un poco mejor."
     isMirandoAbajo: 0
-    isMirandoCostado: 0
+    isMirandoCostado: 1
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
@@ -161,6 +186,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Psiquiatra
     text: "\xBFRecuerda qu\xE9 fue lo que so\xF1\xF3?"
     isMirandoAbajo: 0
@@ -185,6 +215,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: "Parece estar recordando el sue\xF1o, a partir de ahora tengo que ser cuidadosa
       y prestar atenci\xF3n a cada detalle."
@@ -205,9 +240,15 @@ MonoBehaviour:
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
-    isAsustarse: 0
+    isAsustarse: 1
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   mostrarOpcionesAlFinal: 0
+  esUltimaSesion: 0

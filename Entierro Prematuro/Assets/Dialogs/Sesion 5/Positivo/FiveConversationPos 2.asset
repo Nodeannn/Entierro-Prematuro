@@ -23,7 +23,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -37,6 +37,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Obviamente, para eso estoy yo. Escucharle y ayudarle. \xBFQu\xE9 quiere
       decirme?"
@@ -47,7 +53,7 @@ MonoBehaviour:
     isHablando1: 0
     isHablando2: 0
     isMedioFeliz: 0
-    isConmovido: 0
+    isConmovido: 1
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
@@ -62,6 +68,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Mi hija tuvo su primera fiesta de quince. Cuando me lo cont\xF3... sent\xED
       miedo."
@@ -87,6 +99,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Era de noche, yo iba a estar durmiendo... Y pens\xE9 en quedarme despierto,
       incluso en hablar con el padre de la cumplea\xF1era."
@@ -98,7 +116,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -112,6 +130,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Dios, no puedo creer que consider\xE9 eso. Pero al final, la dej\xE9 ir.
       Y me fui a dormir."
@@ -123,7 +147,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -137,6 +161,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xBFC\xF3mo se sinti\xF3 esa noche? \xBFPudo descansar?"
     isMirandoAbajo: 0
@@ -146,7 +176,7 @@ MonoBehaviour:
     isHablando1: 0
     isHablando2: 0
     isMedioFeliz: 0
-    isConmovido: 0
+    isConmovido: 1
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
@@ -161,6 +191,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "No me lo va a creer, pero... Pude dormir tranquilamente hasta que son\xF3
       la alarma para irla a buscar."
@@ -172,7 +208,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -186,6 +222,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Realmente lo logr\xE9 \xA1Lo logr\xE9!"
     isMirandoAbajo: 0
@@ -196,7 +238,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -210,29 +252,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
-  - speaker: Psiquiatra
-    text: "Realmente lo logr\xE9 \xA1Lo logr\xE9!"
-    isMirandoAbajo: 0
-    isMirandoCostado: 0
-    isMirandoDerecha: 0
-    isAbajo: 0
-    isHablando1: 0
-    isHablando2: 0
-    isMedioFeliz: 0
-    isConmovido: 0
-    isFeliz: 0
-    isEnojado: 0
-    isMasEnojado: 0
-    isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
-    isMedioTriste: 0
-    isLlorando: 0
-    isTriste: 0
-    isPreocupado: 0
-    isAsustarse: 0
-    isAsustado: 0
-    isExtremoEnojado: 0
-    isExtremoQCY: 0
-    isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   mostrarOpcionesAlFinal: 1
   esUltimaSesion: 0

@@ -22,7 +22,7 @@ MonoBehaviour:
     isAbajo: 0
     isHablando1: 0
     isHablando2: 0
-    isMedioFeliz: 0
+    isMedioFeliz: 1
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
@@ -38,6 +38,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Esta \xFAltima semana, logr\xE9 dejarlas a un lado... Ten\xEDa miedo...
       No quer\xEDa volver a lo de antes..."
@@ -49,7 +55,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -63,6 +69,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xBFSe sinti\xF3 mal sin ellas?"
     isMirandoAbajo: 0
@@ -71,7 +83,7 @@ MonoBehaviour:
     isAbajo: 0
     isHablando1: 0
     isHablando2: 0
-    isMedioFeliz: 0
+    isMedioFeliz: 1
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
@@ -87,6 +99,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Al principio si, pero, no por volver a tener sue\xF1os o pesadillas, ni
       por miedos de perder a mi hija..."
@@ -98,7 +116,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -112,6 +130,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Sino por tener que depender de ellas. Sin embargo, con el pasar de los
       d\xEDas, vi que todo segu\xEDa igual de bien."
@@ -123,7 +147,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -137,6 +161,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Logr\xE9 sobrepasar esta semana sin consumir ninguna pastilla."
     isMirandoAbajo: 0
@@ -147,7 +177,7 @@ MonoBehaviour:
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
-    isFeliz: 0
+    isFeliz: 1
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
@@ -161,5 +191,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

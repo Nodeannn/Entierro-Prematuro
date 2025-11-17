@@ -38,6 +38,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "\xBFAvanzar? \xBFY dejarla atr\xE1s? No. No pienso hacerlo."
     isMirandoAbajo: 0
@@ -52,7 +57,7 @@ MonoBehaviour:
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
+    isHablandoEnojado: 1
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
@@ -62,6 +67,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Psiquiatra
     text: No se trata de dejarla...
     isMirandoAbajo: 0
@@ -73,7 +83,7 @@ MonoBehaviour:
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
-    isEnojado: 0
+    isEnojado: 1
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
@@ -86,6 +96,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "S\xED se trata de eso. Todos me lo dicen."
     isMirandoAbajo: 0
@@ -100,7 +115,7 @@ MonoBehaviour:
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
+    isHablandoEnojado: 1
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
@@ -110,6 +125,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: No puedo controlarlo...
     isMirandoAbajo: 0
@@ -121,7 +141,7 @@ MonoBehaviour:
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
-    isEnojado: 0
+    isEnojado: 1
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
@@ -134,5 +154,10 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

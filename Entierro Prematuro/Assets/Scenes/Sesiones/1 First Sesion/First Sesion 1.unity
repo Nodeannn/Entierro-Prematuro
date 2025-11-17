@@ -459,6 +459,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8987050321410302163, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1573133106, guid: f0f615f7c7d360f4892ac713874f5e54, type: 3}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: Opcion1
       value: "Ofrecer empat\xEDa"

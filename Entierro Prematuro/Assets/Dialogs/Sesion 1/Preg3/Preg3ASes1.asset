@@ -37,6 +37,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Padre
     text: "No me agradezca. Hago esto por mi hija, no por m\xED. Pero... supongo
       que hablar un poco no hace da\xF1o."
@@ -44,7 +49,7 @@ MonoBehaviour:
     isMirandoCostado: 0
     isMirandoDerecha: 0
     isAbajo: 0
-    isHablando1: 0
+    isHablando1: 1
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
@@ -62,4 +67,10 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   mostrarOpcionesAlFinal: 0
+  esUltimaSesion: 0

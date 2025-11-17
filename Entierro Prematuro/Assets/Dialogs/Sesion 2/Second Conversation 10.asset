@@ -33,10 +33,15 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Psiquiatra
     text: "Su hija ahora mismo est\xE1 en el colegio junto con sus amigos, est\xE1
       viva y feliz."
@@ -56,12 +61,17 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Psiquiatra
     text: "Debi\xF3 haber sido duro so\xF1ar con eso, por favor respire lentamente
       y t\xF3mese su tiempo."
@@ -81,12 +91,17 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: "Este tipo de pesadillas ya son s\xEDntomas de trastorno, deber\xEDa recetar
       un medicamento."
@@ -103,7 +118,7 @@ MonoBehaviour:
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
-    isMedioTriste: 0
+    isMedioTriste: 1
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
@@ -112,6 +127,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: "Las cosas se est\xE1n repitiendo."
     isMirandoAbajo: 0
@@ -128,7 +148,7 @@ MonoBehaviour:
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
-    isLlorando: 0
+    isLlorando: 1
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
@@ -136,6 +156,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: "Es como si ella estuviera enfrente m\xEDo, de nuevo, cont\xE1ndome sus
       pesadillas y como quer\xEDa matarse. Y ah\xED estaba yo, sin ayudar en nada,
@@ -162,6 +187,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 1
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   - speaker: Pensamiento
     text: Debo darle un medicamento...
     isMirandoAbajo: 0
@@ -179,12 +209,17 @@ MonoBehaviour:
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
-    isTriste: 0
+    isTriste: 1
     isPreocupado: 0
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   mostrarOpcionesAlFinal: 1
   esUltimaSesion: 0

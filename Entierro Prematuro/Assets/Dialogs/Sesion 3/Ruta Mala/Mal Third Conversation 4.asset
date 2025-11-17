@@ -25,7 +25,7 @@ MonoBehaviour:
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
-    isEnojado: 0
+    isEnojado: 1
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
@@ -38,5 +38,10 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 1

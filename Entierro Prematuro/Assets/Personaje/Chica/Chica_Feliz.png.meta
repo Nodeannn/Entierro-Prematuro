@@ -95,7 +95,139 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Chica_Feliz_0
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2
+        width: 473
+        height: 904
+      alignment: 9
+      pivot: {x: 0.43463457, y: 0.48859972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fa529f336ffaa4a91286ae829e7be4
+      internalID: 250997278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Feliz_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 899
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd227b035bbf50844b378aa6f022b753
+      internalID: -580252238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Feliz_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 899
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73782033739438429621375f1acd3aa
+      internalID: 891007337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Feliz_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 904
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227869f983da24d45aada645813c3ae8
+      internalID: -1968331349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Feliz_4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 903
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef900dd5775425141a87099a127feb22
+      internalID: -1389310867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chica_Feliz_5
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 904
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc71a1aeb98c6e04fa2f13024fdcc010
+      internalID: 580787029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -111,7 +243,13 @@ TextureImporter:
       name: _NormalMap
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chica_Feliz_0: 250997278
+      Chica_Feliz_1: -580252238
+      Chica_Feliz_2: 891007337
+      Chica_Feliz_3: -1968331349
+      Chica_Feliz_4: -1389310867
+      Chica_Feliz_5: 580787029
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

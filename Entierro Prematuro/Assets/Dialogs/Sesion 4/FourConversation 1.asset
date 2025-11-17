@@ -38,6 +38,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Debo decir que la \xFAltima sesi\xF3n fue... algo inc\xF3moda."
     isMirandoAbajo: 0
@@ -45,7 +51,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -62,6 +68,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Me sent\xED fuera de lugar, como s\xED la sesi\xF3n hubiese sido suya
       m\xE1s que m\xEDa."
@@ -69,7 +81,7 @@ MonoBehaviour:
     isMirandoCostado: 0
     isMirandoDerecha: 0
     isAbajo: 0
-    isHablando1: 0
+    isHablando1: 1
     isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
@@ -87,6 +99,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Le pido disculpas si sinti\xF3 eso. Este es un lugar por, y para, el paciente."
     isMirandoAbajo: 0
@@ -111,11 +129,17 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "\xBFC\xF3mo estuvo la medicaci\xF3n? \xBFAlgo que destacar?"
     isMirandoAbajo: 0
     isMirandoCostado: 0
-    isMirandoDerecha: 0
+    isMirandoDerecha: 1
     isAbajo: 0
     isHablando1: 0
     isHablando2: 0
@@ -135,6 +159,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: No. Por ahora, todo sigue igual.
     isMirandoAbajo: 0
@@ -142,7 +172,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -159,6 +189,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Est\xE1 bien. Hoy le propongo realizar un test. El test de Rorschach,
       no s\xE9 si le resulte familiar."
@@ -184,6 +220,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "S\xED, s\xED, lo conozco. Pero, \xBFeso no es para los locos?"
     isMirandoAbajo: 0
@@ -191,7 +233,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -208,6 +250,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "No, para nada. Me ayudar\xE1 a conocerle mejor, adem\xE1s de verificar
       como le est\xE1 afectando la medicaci\xF3n."
@@ -233,35 +281,16 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
-  - speaker: Psiquiatra
-    text: "No, para nada. Me ayudar\xE1 a conocerle mejor, adem\xE1s de verificar
-      como le est\xE1 afectando la medicaci\xF3n."
-    isMirandoAbajo: 0
-    isMirandoCostado: 0
-    isMirandoDerecha: 0
-    isAbajo: 0
-    isHablando1: 0
-    isHablando2: 0
-    isMedioFeliz: 0
-    isConmovido: 0
-    isFeliz: 0
-    isEnojado: 0
-    isMasEnojado: 0
-    isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
-    isMedioTriste: 0
-    isLlorando: 0
-    isTriste: 0
-    isPreocupado: 0
-    isAsustarse: 0
-    isAsustado: 0
-    isExtremoEnojado: 0
-    isExtremoQCY: 0
-    isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Le comento que no podr\xE9 darle una devoluci\xF3n por cada imagen."
     isMirandoAbajo: 0
-    isMirandoCostado: 0
+    isMirandoCostado: 1
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
@@ -282,6 +311,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Intentar\xE9 guardarme mis an\xE1lisis para el final del test. \xBFEmpezamos?
       Cu\xE9nteme lo que ve ac\xE1."
@@ -307,5 +342,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

@@ -37,6 +37,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: " A lo que me refiero es que al haber perdido a su hija, quiz\xE1s sienta
       que perdi\xF3 su figura como padre."
@@ -62,6 +68,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: Y con eso, se fue el respeto que su hija menor siente por usted.
     isMirandoAbajo: 0
@@ -81,11 +93,17 @@ MonoBehaviour:
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
-    isAsustarse: 0
+    isAsustarse: 1
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: Probablemente conserva esa alfombra, que a su hija le asusta, para poder
       seguir sintiendo cierta autoridad sobre ella.
@@ -107,10 +125,16 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "\xBFEst\xE1 diciendo que tire mi alfombra por mi hija? Mi autoridad como
       padre no depende de una alfombra. Mi hija me respeta. Sabe que debe hacerme
@@ -127,7 +151,7 @@ MonoBehaviour:
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
+    isHablandoEnojado: 1
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
@@ -137,6 +161,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: "Pi\xE9nselo un segundo. El hecho de que su hija le haga caso porque sabe
       que de otra forma usted se enojar\xE1 no es autoridad."
@@ -149,7 +179,7 @@ MonoBehaviour:
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
-    isEnojado: 0
+    isEnojado: 1
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
@@ -162,6 +192,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: Es tener miedo.
     isMirandoAbajo: 0
@@ -181,11 +217,17 @@ MonoBehaviour:
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
-    isAsustarse: 0
+    isAsustarse: 1
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Usted no sabe c\xF3mo son las cosas en mi casa. No sabe c\xF3mo es mi
       hija, ni c\xF3mo soy yo."
@@ -201,7 +243,7 @@ MonoBehaviour:
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
+    isHablandoEnojado: 1
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
@@ -211,6 +253,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: " Un test de mierda no le da derecho a creer saber todo de m\xED."
     isMirandoAbajo: 0
@@ -224,7 +272,7 @@ MonoBehaviour:
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
-    isHablandoMuyEnojado: 0
+    isHablandoMuyEnojado: 1
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
@@ -235,6 +283,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Psiquiatra
     text: Disculpe pero le voy a invitar a que se retire.
     isMirandoAbajo: 0
@@ -247,7 +301,7 @@ MonoBehaviour:
     isConmovido: 0
     isFeliz: 0
     isEnojado: 0
-    isMasEnojado: 0
+    isMasEnojado: 1
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
@@ -259,6 +313,12 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   - speaker: Padre
     text: "Con gusto, pero no porque me lo pida, sino por que no tengo m\xE1s ganas
       de verla."
@@ -273,7 +333,7 @@ MonoBehaviour:
     isFeliz: 0
     isEnojado: 0
     isMasEnojado: 0
-    isHablandoMuyEnojado: 0
+    isHablandoMuyEnojado: 1
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
@@ -284,5 +344,11 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 1
