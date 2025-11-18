@@ -701,7 +701,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   texto: {fileID: 1173021918}
   time: 1
-  timeScene: 2
+  timeScene: 3
   nextScene: Positive Third Sesion
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

@@ -42,6 +42,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "S\xED... dif\xEDcil."
     isMirandoAbajo: 0
@@ -71,6 +77,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "Pero ya me acostumbr\xE9. Uno se adapta a todo, \xBFNo?"
     isMirandoAbajo: 0
@@ -100,6 +112,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: Supongo que si. Aunque, adaptarse no siempre es sanar.
     isMirandoAbajo: 0
@@ -129,6 +147,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: No busco sanar, solo seguir.
     isMirandoAbajo: 0
@@ -158,5 +182,11 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

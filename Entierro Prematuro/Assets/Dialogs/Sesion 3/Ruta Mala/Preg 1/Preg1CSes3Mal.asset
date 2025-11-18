@@ -42,6 +42,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "No lo s\xE9. A veces, escucho que me llama alguna. Pero no s\xE9 cu\xE1l
       de las dos fue. Si Rocio, o Malena."
@@ -72,6 +78,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "\xBFCree que podr\xEDa escribir lo que escucha? Tal vez podamos entender
       si es un recuerdo o un sue\xF1o."
@@ -102,6 +114,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "No quiero escribirlo. Si lo hago, dejo constancia de que est\xE1 muerta."
     isMirandoAbajo: 0
@@ -131,5 +149,11 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

@@ -90,8 +90,8 @@ MonoBehaviour:
     isMirandoCostado: 0
     isMirandoDerecha: 0
     isAbajo: 0
-    isHablando1: 0
-    isHablando2: 1
+    isHablando1: 1
+    isHablando2: 0
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -123,7 +123,7 @@ MonoBehaviour:
     text: Muy cortante... parece nervioso. Algo no anda bien.
     isMirandoAbajo: 0
     isMirandoCostado: 0
-    isMirandoDerecha: 0
+    isMirandoDerecha: 1
     isAbajo: 0
     isHablando1: 0
     isHablando2: 0
@@ -172,7 +172,7 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 1
+    isPreocupado: 0
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
@@ -197,7 +197,7 @@ MonoBehaviour:
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0
-    isHablando2: 0
+    isHablando2: 1
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
@@ -219,7 +219,7 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
-    isAsustadoHablando: 1
+    isAsustadoHablando: 0
     manosNada: 1
     manosElMismo: 0
     manosAPlayer: 0
@@ -243,9 +243,9 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
-    isAsustado: 1
+    isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
@@ -350,9 +350,9 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
-    isAsustado: 1
+    isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
@@ -421,9 +421,9 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
-    isAsustado: 1
+    isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
@@ -467,7 +467,7 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
-    isAsustadoHablando: 0
+    isAsustadoHablando: 1
     manosNada: 1
     manosElMismo: 0
     manosAPlayer: 0
@@ -635,8 +635,8 @@ MonoBehaviour:
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
-    isAsustarse: 0
-    isAsustado: 1
+    isAsustarse: 1
+    isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
@@ -773,12 +773,12 @@ MonoBehaviour:
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
-    isMedioTriste: 0
+    isMedioTriste: 1
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 1
+    isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
@@ -880,8 +880,8 @@ MonoBehaviour:
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
-    isMedioTriste: 0
-    isLlorando: 1
+    isMedioTriste: 1
+    isLlorando: 0
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
@@ -917,7 +917,7 @@ MonoBehaviour:
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
-    isTriste: 1
+    isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
     isAsustado: 0
@@ -929,7 +929,7 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
-    isAsustadoHablando: 0
+    isAsustadoHablando: 1
     manosNada: 1
     manosElMismo: 0
     manosAPlayer: 0
@@ -950,7 +950,7 @@ MonoBehaviour:
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
-    isMedioTriste: 0
+    isMedioTriste: 1
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
@@ -988,7 +988,7 @@ MonoBehaviour:
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
-    isTriste: 1
+    isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
     isAsustado: 0
@@ -1000,7 +1000,7 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
-    isAsustadoHablando: 0
+    isAsustadoHablando: 1
     manosNada: 1
     manosElMismo: 0
     manosAPlayer: 0
@@ -1023,7 +1023,7 @@ MonoBehaviour:
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
-    isTriste: 1
+    isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
     isAsustado: 0
@@ -1035,7 +1035,7 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
-    isAsustadoHablando: 0
+    isAsustadoHablando: 1
     manosNada: 1
     manosElMismo: 0
     manosAPlayer: 0
@@ -1058,7 +1058,7 @@ MonoBehaviour:
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
-    isLlorando: 0
+    isLlorando: 1
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
@@ -1095,7 +1095,7 @@ MonoBehaviour:
     isHablandoEnojado: 0
     isMedioTriste: 0
     isLlorando: 0
-    isTriste: 0
+    isTriste: 1
     isPreocupado: 0
     isAsustarse: 0
     isAsustado: 0
@@ -1130,7 +1130,7 @@ MonoBehaviour:
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
-    isLlorando: 0
+    isLlorando: 1
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
@@ -1165,7 +1165,7 @@ MonoBehaviour:
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
-    isMedioTriste: 0
+    isMedioTriste: 1
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
@@ -1201,7 +1201,7 @@ MonoBehaviour:
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
-    isMedioTriste: 0
+    isMedioTriste: 1
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
@@ -1275,9 +1275,9 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
-    isAsustarse: 1
-    isAsustado: 0
+    isPreocupado: 1
+    isAsustarse: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
@@ -1346,7 +1346,7 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
@@ -1392,7 +1392,7 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
-    isAsustadoHablando: 0
+    isAsustadoHablando: 1
     manosNada: 1
     manosElMismo: 0
     manosAPlayer: 0
@@ -1417,7 +1417,7 @@ MonoBehaviour:
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
-    isPreocupado: 0
+    isPreocupado: 1
     isAsustarse: 0
     isAsustado: 0
     isExtremoEnojado: 0
@@ -1534,7 +1534,7 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
-    isAsustadoHablando: 0
+    isAsustadoHablando: 1
     manosNada: 1
     manosElMismo: 0
     manosAPlayer: 0
@@ -1773,8 +1773,8 @@ MonoBehaviour:
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
-    isAsustarse: 0
-    isAsustado: 1
+    isAsustarse: 1
+    isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
@@ -1874,7 +1874,7 @@ MonoBehaviour:
     isEnojado: 0
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
+    isHablandoEnojado: 1
     isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
@@ -1889,7 +1889,7 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
-    isAsustadoHablando: 1
+    isAsustadoHablando: 0
     manosNada: 1
     manosElMismo: 0
     manosAPlayer: 0
@@ -1906,11 +1906,11 @@ MonoBehaviour:
     isMedioFeliz: 0
     isConmovido: 0
     isFeliz: 0
-    isEnojado: 0
+    isEnojado: 1
     isMasEnojado: 0
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
-    isMedioTriste: 1
+    isMedioTriste: 0
     isLlorando: 0
     isTriste: 0
     isPreocupado: 0
@@ -1950,7 +1950,7 @@ MonoBehaviour:
     isTriste: 0
     isPreocupado: 0
     isAsustarse: 0
-    isAsustado: 0
+    isAsustado: 1
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
@@ -1981,10 +1981,10 @@ MonoBehaviour:
     isHablandoMuyEnojado: 0
     isHablandoEnojado: 0
     isMedioTriste: 0
-    isLlorando: 1
+    isLlorando: 0
     isTriste: 0
     isPreocupado: 0
-    isAsustarse: 0
+    isAsustarse: 1
     isAsustado: 0
     isExtremoEnojado: 0
     isExtremoQCY: 0
