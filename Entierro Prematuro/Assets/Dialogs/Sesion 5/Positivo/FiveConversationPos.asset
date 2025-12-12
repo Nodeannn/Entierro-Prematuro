@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - speaker: Pensamiento
-    text: "Ya pas\xF3 un tiempo desde los resultados del test de Rorschach... y desde
-      esa apertura al final de la sesi\xF3n."
+    text: "(Ya pas\xF3 un tiempo desde los resultados del test de Rorschach... y
+      desde esa apertura al final de la sesi\xF3n.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -38,8 +38,19 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: Gracias a eso, las siguientes fueron distintas...
+    text: (Gracias a eso, las siguientes fueron distintas...)
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -62,8 +73,19 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Pude entender cada vez mas su miedo, pude ayudarlo a \xE9l a entenderlo."
+    text: "(Pude entender cada vez mas su miedo, pude ayudarlo a \xE9l a entenderlo.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -86,8 +108,19 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: Creo que todo esta yendo para mejor... no como la ultima vez...
+    text: (Creo que todo esta yendo para mejor... no como la ultima vez...)
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -110,5 +143,16 @@ MonoBehaviour:
     isExtremoEnojado: 0
     isExtremoQCY: 0
     isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

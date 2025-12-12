@@ -44,6 +44,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "Debo decir que la \xFAltima sesi\xF3n fue... algo inc\xF3moda."
     isMirandoAbajo: 0
@@ -74,6 +79,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "Me sent\xED fuera de lugar, como s\xED la sesi\xF3n hubiese sido suya
       m\xE1s que m\xEDa."
@@ -105,6 +115,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "Le pido disculpas si sinti\xF3 eso. Este es un lugar por, y para, el paciente."
     isMirandoAbajo: 0
@@ -135,6 +150,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "\xBFC\xF3mo estuvo la medicaci\xF3n? \xBFAlgo que destacar?"
     isMirandoAbajo: 0
@@ -165,6 +185,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: No. Por ahora, todo sigue igual.
     isMirandoAbajo: 0
@@ -195,6 +220,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "Est\xE1 bien. Hoy le propongo realizar un test. El test de Rorschach,
       no s\xE9 si le resulte familiar."
@@ -226,6 +256,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "S\xED, s\xED, lo conozco. Pero, \xBFeso no es para los locos?"
     isMirandoAbajo: 0
@@ -256,6 +291,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "No, para nada. Me ayudar\xE1 a conocerle mejor, adem\xE1s de verificar
       como le est\xE1 afectando la medicaci\xF3n."
@@ -287,6 +327,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "Le comento que no podr\xE9 darle una devoluci\xF3n por cada imagen."
     isMirandoAbajo: 0
@@ -317,6 +362,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "Intentar\xE9 guardarme mis an\xE1lisis para el final del test. \xBFEmpezamos?
       Cu\xE9nteme lo que ve ac\xE1."
@@ -348,5 +398,10 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

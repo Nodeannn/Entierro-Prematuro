@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - speaker: Pensamiento
-    text: "Debo asegurarme de que pueda mantener estos cambios sin depender de m\xED."
+    text: "(Debo asegurarme de que pueda mantener estos cambios sin depender de m\xED.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -43,6 +43,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "\xBFHa pensado en c\xF3mo sostener esta nueva forma de vivir?"
     isMirandoAbajo: 0
@@ -73,6 +78,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: Creo, que lo voy a mantener como algo cotidiano... Ya no siento esa necesidad
       como antes de sobreproteger a mi hija.
@@ -104,5 +114,10 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

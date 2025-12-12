@@ -43,6 +43,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: Y cuando lo hago, escucho una de sus voces.
     isMirandoAbajo: 0
@@ -72,6 +78,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "Esta ma\xF1ana cre\xED escuchar su alarma y me apur\xE9 para despertarla
       y llevarla al colegio, pero despu\xE9s me acord\xE9 que ya no va m\xE1s."
@@ -102,6 +114,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "Hace tiempo que no la dejo salir sola. No conf\xEDo en que el camino sea
       seguro, ni en que la genta sepa como tratar su enfermedad."
@@ -132,6 +150,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "As\xED que estudia en casa, o al menos intento que lo haga. Pero por momentos
       no se si se queda dormida, o si volvi\xF3 a..."
@@ -162,6 +186,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: ya sabe, sucederle un episodio. Debo mantenerme despierto.
     isMirandoAbajo: 0
@@ -191,9 +221,15 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Est\xE1 exhausto. Pero no me conf\xEDa del todo. Si digo algo mal, se
-      cerrar\xE1 por completo."
+    text: "(Est\xE1 exhausto. Pero no me conf\xEDa del todo. Si digo algo mal, se
+      cerrar\xE1 por completo.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -221,5 +257,11 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 1
   esUltimaSesion: 0

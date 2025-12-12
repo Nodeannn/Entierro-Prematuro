@@ -192,8 +192,8 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Se aferra a esa confusi\xF3n como si fuera lo \xFAnico que le queda. Y
-      quiz\xE1s lo sea."
+    text: "(Se aferra a esa confusi\xF3n como si fuera lo \xFAnico que le queda.
+      Y quiz\xE1s lo sea.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0

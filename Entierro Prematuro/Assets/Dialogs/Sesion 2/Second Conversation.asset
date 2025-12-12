@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - speaker: Pensamiento
-    text: "Hoy se ve desorientado, su pelo est\xE1 m\xE1s desordenado que de costumbre
+    text: "(Hoy se ve desorientado, su pelo est\xE1 m\xE1s desordenado que de costumbre
       y sus ojeras..."
     isMirandoAbajo: 0
     isMirandoCostado: 1
@@ -43,8 +43,14 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: claramente no pudo dormir bien.
+    text: ...claramente no pudo dormir bien.)
     isMirandoAbajo: 1
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -72,6 +78,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: Esta noche tuve una pesadilla, fue perturbadora.
     isMirandoAbajo: 0
@@ -101,6 +113,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "Me despert\xE9 varias veces en la noche para revisar que mi hija siga
       respirando."
@@ -131,9 +149,15 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Es bueno que haya tomado la iniciativa para hablar del sue\xF1o, lamentablemente
-      su obsesi\xF3n sigue siendo igual de fuerte."
+    text: "(Es bueno que haya tomado la iniciativa para hablar del sue\xF1o, lamentablemente
+      su obsesi\xF3n sigue siendo igual de fuerte.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -161,9 +185,15 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Lo mejor va a ser preguntarle sobre esto, tal vez as\xED pueda entenderlo
-      un poco mejor."
+    text: "(Lo mejor va a ser preguntarle sobre esto, tal vez as\xED pueda entenderlo
+      un poco mejor.)"
     isMirandoAbajo: 0
     isMirandoCostado: 1
     isMirandoDerecha: 0
@@ -191,6 +221,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "\xBFRecuerda qu\xE9 fue lo que so\xF1\xF3?"
     isMirandoAbajo: 0
@@ -220,9 +256,15 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Parece estar recordando el sue\xF1o, a partir de ahora tengo que ser cuidadosa
-      y prestar atenci\xF3n a cada detalle."
+    text: "(Parece estar recordando el sue\xF1o, a partir de ahora tengo que ser
+      cuidadosa y prestar atenci\xF3n a cada detalle.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -250,5 +292,11 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

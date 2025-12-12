@@ -44,9 +44,14 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Nunca escuch\xE9 esa respuesta antes. Ser\xE1 mejor que empiece a anotar
-      sus comentarios."
+    text: "(Nunca escuch\xE9 esa respuesta antes. Ser\xE1 mejor que empiece a anotar
+      sus comentarios.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -75,5 +80,10 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 1
   esUltimaSesion: 0

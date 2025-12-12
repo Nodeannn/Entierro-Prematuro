@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - speaker: Pensamiento
-    text: "Su obsesi\xF3n est\xE1 te\xF1ida de miedo. Confunde la catalepsia con
-      la muerte."
+    text: "(Su obsesi\xF3n est\xE1 te\xF1ida de miedo. Confunde la catalepsia con
+      la muerte.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -43,9 +43,15 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "No s\xF3lo vigila a su hija: vigila al destino mismo, como si pudiera
-      detenerlo con la mirada. Si lo contradigo de lleno, se cerrar\xE1."
+    text: "(No s\xF3lo vigila a su hija: vigila al destino mismo, como si pudiera
+      detenerlo con la mirada. Si lo contradigo de lleno, se cerrar\xE1.)"
     isMirandoAbajo: 0
     isMirandoCostado: 1
     isMirandoDerecha: 0
@@ -73,9 +79,15 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Pero si lo valido demasiado, reforzar\xE9 su obsesi\xF3n. Tal vez pueda
-      orientarlo hacia lo real: lo que la catalepsia significa en t\xE9rminos cl\xEDnicos."
+    text: "(Pero si lo valido demasiado, reforzar\xE9 su obsesi\xF3n. Tal vez pueda
+      orientarlo hacia lo real: lo que la catalepsia significa en t\xE9rminos cl\xEDnicos.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -103,9 +115,15 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: O puedo indagar en sus conductas con respecto a los episodios de su hija,
-      o en su vivencia emocional.
+    text: (O puedo indagar en sus conductas con respecto a los episodios de su hija,
+      o en su vivencia emocional.)
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -133,5 +151,11 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 1
   esUltimaSesion: 0

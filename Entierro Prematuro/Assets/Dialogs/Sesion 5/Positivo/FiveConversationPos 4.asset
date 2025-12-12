@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - speaker: Pensamiento
-    text: "Logr\xE9 salvarlo... Logr\xE9 remediar mi error anterior."
+    text: "(Logr\xE9 salvarlo... Logr\xE9 remediar mi error anterior.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -43,9 +43,14 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: Por fin voy a poder descansar sabiendo que soy capaz... Voy a seguir salvando
-      a mas gente.
+    text: (Por fin voy a poder descansar sabiendo que soy capaz... Voy a seguir salvando
+      a mas gente.)
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -74,5 +79,10 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

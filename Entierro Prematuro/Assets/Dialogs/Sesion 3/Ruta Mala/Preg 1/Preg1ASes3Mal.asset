@@ -85,8 +85,8 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Por su tono de voz puedo notar que est\xE1 molesto. Debo hacer algo para
-      calmarlo."
+    text: "(Por su tono de voz puedo notar que est\xE1 molesto. Debo hacer algo para
+      calmarlo.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -191,7 +191,7 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: No me cree capaz de ayudarlo...
+    text: (No me cree capaz de ayudarlo...)
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0

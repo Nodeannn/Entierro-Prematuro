@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - speaker: Pensamiento
-    text: "Pelo desordenado, camisa arrugada. Camina r\xE1pido, como si el tiempo
-      corriera en su contra."
+    text: "(Pelo desordenado, camisa arrugada. Camina r\xE1pido, como si el tiempo
+      corriera en su contra.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -43,8 +43,14 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: Sus manos sostienen una carpeta repleta de papeles, fotos y dibujos infantiles.
+    text: (Sus manos sostienen una carpeta repleta de papeles, fotos y dibujos infantiles.)
     isMirandoAbajo: 0
     isMirandoCostado: 1
     isMirandoDerecha: 0
@@ -72,8 +78,14 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "No me mira a los ojos. Se deja caer en la silla frente a m\xED."
+    text: "(No me mira a los ojos. Se deja caer en la silla frente a m\xED.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -101,6 +113,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "Ella no puede quedarse sola... \xBFlo entiende?"
     isMirandoAbajo: 0
@@ -130,6 +148,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "Si cierro los ojos, aunque sea un minuto, podr\xEDa morir como su hermana."
     isMirandoAbajo: 0
@@ -159,9 +183,15 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "No hay saludo, no hay presentaci\xF3n. Solo urgencia. Su voz tiembla y
-      se quiebra."
+    text: "(No hay saludo, no hay presentaci\xF3n. Solo urgencia. Su voz tiembla
+      y se quiebra.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -189,9 +219,15 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "No habla de s\xED mismo, sino de la hija que a\xFAn vive. Para \xE9l,
-      no hay diferencia entre catalepsia y muerte."
+    text: "(No habla de s\xED mismo, sino de la hija que a\xFAn vive. Para \xE9l,
+      no hay diferencia entre catalepsia y muerte.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -219,9 +255,15 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Ya perdi\xF3 una hija... y su duelo se ha convertido en una prisi\xF3n
-      para la otra."
+    text: "(Ya perdi\xF3 una hija... y su duelo se ha convertido en una prisi\xF3n
+      para la otra.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -249,6 +291,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "Ya perd\xED una hija. No pienso perder otra."
     isMirandoAbajo: 0
@@ -278,6 +326,12 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: No voy a permitir que el destino me la arrebate.
     isMirandoAbajo: 0
@@ -307,8 +361,14 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Mi respuesta marcar\xE1 el tono de esta relaci\xF3n."
+    text: "(Mi respuesta marcar\xE1 el tono de esta relaci\xF3n.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -336,9 +396,15 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Puedo acercarme con empat\xEDa, cuestionar su obsesi\xF3n, o invitarlo
-      a hablar de la hija que ya no est\xE1."
+    text: "(Puedo acercarme con empat\xEDa, cuestionar su obsesi\xF3n, o invitarlo
+      a hablar de la hija que ya no est\xE1.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 1
@@ -366,8 +432,14 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "A\xFAn es pronto... pero debo elegir con cuidado."
+    text: "(A\xFAn es pronto... pero debo elegir con cuidado.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -395,5 +467,11 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 1
   esUltimaSesion: 0

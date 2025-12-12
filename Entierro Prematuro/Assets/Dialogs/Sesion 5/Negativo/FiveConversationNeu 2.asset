@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - speaker: Pensamiento
-    text: "Realmente \xE9l me disparo... Mi cuerpo no responde... Se esta poniendo
-      todo negro..."
+    text: "(Realmente \xE9l me disparo... Mi cuerpo no responde... Se esta poniendo
+      todo negro...)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -50,8 +50,8 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "\xBFSer\xE1 este mi fin? \xBFQu\xE9 est\xE1 haciendo? \xBFSe est\xE1 poniendo
-      la pistola en la cabeza el ahora?"
+    text: "(\xBFSer\xE1 este mi fin? \xBFQu\xE9 est\xE1 haciendo? \xBFSe est\xE1
+      poniendo la pistola en la cabeza el ahora?)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -86,7 +86,7 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "\xA1Por dios! \xA1Se acaba de matar! \xA1Acaba de suicidarse!"
+    text: "(\xA1Por dios! \xA1Se acaba de matar! \xA1Acaba de suicidarse!)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -121,8 +121,8 @@ MonoBehaviour:
     EfectoDisparo: 1
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Al final... todo estaba escrito para terminar as\xED... Nunca fui lo suficientemente
-      capaz como para ser una buena psiquiatra..."
+    text: "(Al final... todo estaba escrito para terminar as\xED... Nunca fui lo
+      suficientemente capaz como para ser una buena psiquiatra...)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -157,7 +157,7 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: No salve a mi anterior paciente... y este... me termino disparando. Cada
+    text: (No salve a mi anterior paciente... y este... me termino disparando. Cada
       vez todo se pone mas oscuro...
     isMirandoAbajo: 0
     isMirandoCostado: 0
@@ -193,7 +193,7 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: se siente mas frio aunque sea una tarde de un calor infernal...
+    text: ...se siente mas frio aunque sea una tarde de un calor infernal...)
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -228,7 +228,7 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Parece que todo termina ac\xE1... Esto... se siente..."
+    text: "(Parece que todo termina ac\xE1... Esto... se siente..."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -263,7 +263,7 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: Bien...
+    text: ...bien...)
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0

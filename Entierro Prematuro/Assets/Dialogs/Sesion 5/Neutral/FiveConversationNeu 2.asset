@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - speaker: Pensamiento
-    text: "Despu\xE9s de eso llam\xE9 a la polic\xEDa para que le encontrar\xE1n.
-      \xC9l esper\xF3 tranquilamente."
+    text: "(Despu\xE9s de eso llam\xE9 a la polic\xEDa para que le encontrar\xE1n.
+      \xC9l esper\xF3 tranquilamente.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -44,9 +44,14 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: Obviamente algo no funcionaba en su cabeza. Seguro que a donde le manden
-      va a estar mejor que muerto...
+    text: (Obviamente algo no funcionaba en su cabeza. Seguro que a donde le manden
+      va a estar mejor que muerto...)
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -75,9 +80,14 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: Sigo siendo una fracasada... No logro salvar a nadie... Ya son dos pacientes
-      los cuales no logro curar.
+    text: (Sigo siendo una fracasada... No logro salvar a nadie... Ya son dos pacientes
+      los cuales no logro curar.)
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -106,8 +116,13 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 1
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Deber\xEDa dejar esto... No es lo m\xEDo..."
+    text: "(Deber\xEDa dejar esto... No es lo m\xEDo...)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -136,5 +151,10 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 1
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

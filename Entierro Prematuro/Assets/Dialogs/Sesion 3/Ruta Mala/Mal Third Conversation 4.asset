@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - speaker: Pensamiento
-    text: "No me cree. No conf\xEDa en mi. Y, sinceramente, yo tampoco creo en m\xED
-      misma. Quiz\xE1s el error fue pensar que pod\xEDa salvarlos."
+    text: "(No me cree. No conf\xEDa en mi. Y, sinceramente, yo tampoco creo en m\xED
+      misma. Quiz\xE1s el error fue pensar que pod\xEDa salvarlos.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -43,5 +43,11 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 1

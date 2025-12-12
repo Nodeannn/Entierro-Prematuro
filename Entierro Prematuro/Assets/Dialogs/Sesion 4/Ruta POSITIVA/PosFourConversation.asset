@@ -374,7 +374,7 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "Hoy fue una sesi\xF3n triste, pero tranquila. Empiezo a ver un progreso."
+    text: "(Hoy fue una sesi\xF3n triste, pero tranquila. Empiezo a ver un progreso.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
