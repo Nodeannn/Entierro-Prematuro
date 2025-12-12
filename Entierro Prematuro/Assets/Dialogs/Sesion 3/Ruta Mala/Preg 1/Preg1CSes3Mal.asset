@@ -50,7 +50,7 @@ MonoBehaviour:
     EfectoMuerte: 0
   - speaker: Padre
     text: "No lo s\xE9. A veces, escucho que me llama alguna. Pero no s\xE9 cu\xE1l
-      de las dos fue. Si Rocio, o Malena."
+      de las dos fue. Si Roc\xEDo, o Malena."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0

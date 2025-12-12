@@ -42,8 +42,14 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
-    text: "La mayor, Rocio, siempre me ped\xEDa 5 minutos m\xE1s. O me los ped\xEDa.
+    text: "La mayor, Roc\xEDo, siempre me ped\xEDa 5 minutos m\xE1s. O me los ped\xEDa.
       Deje, ya ni s\xE9 de quien le hablo."
     isMirandoAbajo: 0
     isMirandoCostado: 0
@@ -72,5 +78,11 @@ MonoBehaviour:
     isChicaFeliz: 0
     isChicaColgada: 0
     isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 0

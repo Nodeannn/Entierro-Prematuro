@@ -44,6 +44,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "Algo adentro suyo le est\xE1 atormentando. \xBFSigue escuchando la voz
       de su hija mayor?"
@@ -75,6 +80,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "Todav\xEDa escucho una voz. Pero puede que sean los ruidos de Malena.
       Compart\xEDan muchas cosas."
@@ -106,6 +116,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "Duda de esa voz que dice escuchar. Constantemente busca saber d\xF3nde
       se encuentra y qu\xE9 esta haciendo su hija menor."
@@ -137,6 +152,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "A su vez, tambi\xE9n busca \"encontrar\" a su hija mayor en las cosas
       diarias. \xBFNo siente que su falta de confianza en sus habilidades como padre
@@ -169,9 +189,14 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
-    text: Puede ser. Desde que Rocio se fue no pienso en otra cosa que no sea en
-      cuidar a chica. Tengo miedo de que ambas desaparezcan.
+    text: "Puede ser. Desde que Roc\xEDo se fue no pienso en otra cosa que no sea
+      en cuidar a chica. Tengo miedo de que ambas desaparezcan."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
@@ -200,9 +225,14 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "Lo m\xE1s probable es que ese miedo que siente no sea el de perder a la
-      menor. Sino el miedo de fallarle a la memoria de Rocio."
+      menor. Sino el miedo de fallarle a la memoria de Roc\xEDo."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 1
@@ -231,6 +261,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: "Desde que se fue, la casa est\xE1 gris... Lo \xFAnico que queda son peleas."
     isMirandoAbajo: 0
@@ -261,6 +296,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Psiquiatra
     text: "Me parece que lo mejor ser\xE1 dejarlo ac\xE1. La pr\xF3xima sesi\xF3n
       podemos seguir indagando en el tema, si le parece. Puede retirarse. Que tenga
@@ -293,6 +333,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Padre
     text: Nos vemos, doctora.
     isMirandoAbajo: 0
@@ -323,6 +368,11 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   - speaker: Pensamiento
     text: "Hoy fue una sesi\xF3n triste, pero tranquila. Empiezo a ver un progreso."
     isMirandoAbajo: 0
@@ -353,5 +403,10 @@ MonoBehaviour:
     isChicaColgada: 0
     isChicaNeutro: 0
     isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
   mostrarOpcionesAlFinal: 0
   esUltimaSesion: 1
