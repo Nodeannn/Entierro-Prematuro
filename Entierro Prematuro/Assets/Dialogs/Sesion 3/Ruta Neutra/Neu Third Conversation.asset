@@ -403,42 +403,9 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "(Tengo que hacer que se sienta c\xF3modo.)"
-    isMirandoAbajo: 0
-    isMirandoCostado: 0
-    isMirandoDerecha: 0
-    isAbajo: 0
-    isHablando1: 0
-    isHablando2: 0
-    isMedioFeliz: 0
-    isConmovido: 0
-    isFeliz: 0
-    isEnojado: 0
-    isMasEnojado: 0
-    isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
-    isMedioTriste: 0
-    isLlorando: 0
-    isTriste: 0
-    isPreocupado: 0
-    isAsustarse: 0
-    isAsustado: 0
-    isExtremoEnojado: 0
-    isExtremoQCY: 0
-    isExtremoHorror: 0
-    isMuyFeliz: 0
-    isChicaInterposicion: 0
-    isChicaFeliz: 0
-    isChicaColgada: 0
-    isChicaNeutro: 0
-    isAsustadoHablando: 0
-    manosNada: 1
-    manosElMismo: 0
-    manosAPlayer: 0
-    EfectoDisparo: 0
-    EfectoMuerte: 0
-  - speaker: Pensamiento
-    text: "(Noto que hay m\xE1s sobre lo que no me est\xE1 contando.)"
+    text: "(Si quiero que se abra, tengo que elegir bien mis palabras. Puedo racionalizar
+      lo que siente, seguir indagando en su d\xEDa a d\xEDa o ir al grano y hablar
+      de lo que lo atormenta.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0

@@ -14,6 +14,113 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - speaker: Pensamiento
+    text: "(El consultorio est\xE1 vac\xEDo. Escucho un \"toc-toc\".)"
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 0
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
+  - speaker: Pensamiento
+    text: "(Ya lleg\xF3. Esta vez est\xE1 m\xE1s calmado, no como la \xFAltima sesi\xF3n,
+      cuando entr\xF3 con mucha... energ\xEDa.)"
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 0
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
+  - speaker: Pensamiento
+    text: "(Parece estar recordando el sue\xF1o, a partir de ahora tengo que ser
+      cuidadosa y prestar atenci\xF3n a cada detalle.)"
+    isMirandoAbajo: 0
+    isMirandoCostado: 0
+    isMirandoDerecha: 0
+    isAbajo: 0
+    isHablando1: 0
+    isHablando2: 0
+    isMedioFeliz: 0
+    isConmovido: 0
+    isFeliz: 0
+    isEnojado: 0
+    isMasEnojado: 0
+    isHablandoMuyEnojado: 0
+    isHablandoEnojado: 0
+    isMedioTriste: 0
+    isLlorando: 0
+    isTriste: 0
+    isPreocupado: 0
+    isAsustarse: 1
+    isAsustado: 0
+    isExtremoEnojado: 0
+    isExtremoQCY: 0
+    isExtremoHorror: 0
+    isMuyFeliz: 0
+    isChicaInterposicion: 0
+    isChicaFeliz: 0
+    isChicaColgada: 0
+    isChicaNeutro: 0
+    isAsustadoHablando: 0
+    manosNada: 1
+    manosElMismo: 0
+    manosAPlayer: 0
+    EfectoDisparo: 0
+    EfectoMuerte: 0
+  - speaker: Pensamiento
     text: "(Hoy se ve desorientado, su pelo est\xE1 m\xE1s desordenado que de costumbre
       y sus ojeras..."
     isMirandoAbajo: 0

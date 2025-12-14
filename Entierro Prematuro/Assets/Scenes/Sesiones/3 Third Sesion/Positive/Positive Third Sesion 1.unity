@@ -177,15 +177,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: Opcion1
-      value: Dudar de recuerdos
+      value: Cuestionar sus recuerdos
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: Opcion2
-      value: Olvidar el pasado
+      value: Centrarse en el presente
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: Opcion3
-      value: Recordar el lago
+      value: Hablar del lago
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: pointsA

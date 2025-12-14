@@ -404,45 +404,11 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "(Su confusi\xF3n empeora.)"
+    text: "(Est\xE1 tenso, a la defensiva. Cualquier paso en falso puede cerrarlo
+      por completo. Tengo que decidir si suavizar la situaci\xF3n, mantenerlo en
+      lo concreto, o hacerlo enfrentar lo que evita.)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
-    isMirandoDerecha: 0
-    isAbajo: 0
-    isHablando1: 0
-    isHablando2: 0
-    isMedioFeliz: 0
-    isConmovido: 0
-    isFeliz: 0
-    isEnojado: 0
-    isMasEnojado: 0
-    isHablandoMuyEnojado: 0
-    isHablandoEnojado: 0
-    isMedioTriste: 0
-    isLlorando: 0
-    isTriste: 0
-    isPreocupado: 0
-    isAsustarse: 0
-    isAsustado: 0
-    isExtremoEnojado: 0
-    isExtremoQCY: 0
-    isExtremoHorror: 0
-    isMuyFeliz: 0
-    isChicaInterposicion: 0
-    isChicaFeliz: 0
-    isChicaColgada: 0
-    isChicaNeutro: 0
-    isAsustadoHablando: 0
-    manosNada: 1
-    manosElMismo: 0
-    manosAPlayer: 0
-    EfectoDisparo: 0
-    EfectoMuerte: 0
-  - speaker: Pensamiento
-    text: "(Pero est\xE1 a la defensiva, no puedo presionarlo sin que se cierre por
-      completo.)"
-    isMirandoAbajo: 0
-    isMirandoCostado: 1
     isMirandoDerecha: 0
     isAbajo: 0
     isHablando1: 0

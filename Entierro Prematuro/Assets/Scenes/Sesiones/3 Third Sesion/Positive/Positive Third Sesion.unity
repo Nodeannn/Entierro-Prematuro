@@ -177,15 +177,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: Opcion1
-      value: Ser observado
+      value: Racionalizar su experiencia
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: Opcion2
-      value: "Mantener h\xE1bitos"
+      value: Hablar de sus rutinas
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: Opcion3
-      value: Diferenciar a sus hijas
+      value: "Confrontar su confusi\xF3n"
       objectReference: {fileID: 0}
     - target: {fileID: 9024891677367239960, guid: 92de9be0d5a312b44ac9454120e94055, type: 3}
       propertyPath: pointsA
