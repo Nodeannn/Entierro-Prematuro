@@ -50,8 +50,9 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Pensamiento
-    text: "(Nunca escuch\xE9 esa respuesta antes. Ser\xE1 mejor que empiece a anotar
-      sus comentarios.)"
+    text: "(Nunca escuch\xE9 esa respuesta antes. Las dos personas podr\xEDan representar
+      alg\xFAn tipo de v\xEDnculo. El pozo debe ser una met\xE1fora para el vac\xEDo
+      dentro de \xE9l, pero \xBFCu\xE1l de todos sus vac\xEDos?)"
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0

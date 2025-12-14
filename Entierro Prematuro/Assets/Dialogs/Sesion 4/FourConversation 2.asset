@@ -84,8 +84,9 @@ MonoBehaviour:
     EfectoDisparo: 0
     EfectoMuerte: 0
   - speaker: Psiquiatra
-    text: "No tenga miedo de decir lo que ve. Necesito que sea sincero para tener
-      un an\xE1lisis m\xE1s claro. Continuemos con la siguiente."
+    text: "No tenga miedo de decir lo que ve. No todo es lo que parece, busque desde
+      otros puntos, m\xE1s dentro suyo.  Necesito que sea sincero para tener un an\xE1lisis
+      claro. Pasemos a la siguiente."
     isMirandoAbajo: 0
     isMirandoCostado: 0
     isMirandoDerecha: 0
